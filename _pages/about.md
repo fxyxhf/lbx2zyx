@@ -50,17 +50,17 @@ News
 ---------------
 <div class="news-box">
   <ul class="news-list">
+<li><span class="news-date"><em style="color:#C9B1FF">2026.05</em></span> 🎉🎉 My paper has been accepted by <b><i>Engineering Research Express</i></b> (JCR Q2).</li>
 
+<li><span class="news-date"><em style="color:#C9B1FF">2025.08</em></span> 🎉🎉 I participated in the Summer School on Air, Space, Land, and Sea Intelligent Perception Technology at Sun Yat-sen University and successfully completed the assessment.</li>
 
-<li><span class="news-date"><em>2026.05</em></span> 🎉🎉 My paper has been accepted by ***Engineering Research Express*** (JCR Q2).</li>
+<li><span class="news-date"><em style="color:#C9B1FF">2025.04</em></span> 🎉🎉 My paper has been accepted by 2025 IEEE 3rd International Conference on Image Processing and Computer Applications (ICIPCA).</li>
 
-<li><span class="news-date"><em>2025.08</em></span> 🎉🎉 I participated in the Summer School on Air, Space, Land, and Sea Intelligent Perception Technology at Sun Yat-sen University and successfully completed the assessment.</li>
-<li><span class="news-date"><em>2025.04</em></span> 🎉🎉 My paper has been accepted by 2025 IEEE 3rd International Conference on Image Processing and Computer Applications (ICIPCA).</li>
+<li><span class="news-date"><em style="color:#C9B1FF">2025.02</em></span> 🎉🎉 I joined the National Engineering Research Center for Geophysical Exploration Instrumentation.</li>
 
-<li><span class="news-date"><em>2025.02</em></span> 🎉🎉 I joined the National Engineering Research Center for Geophysical Exploration Instrumentation.</li>
-<li><span class="news-date"><em>2024.11</em></span> 🎉🎉 I have received an offer to attend the winter school at Hanyang University.</li>
+<li><span class="news-date"><em style="color:#C9B1FF">2024.11</em></span> 🎉🎉 I have received an offer to attend the winter school at Hanyang University.</li>
 
-<li><span class="news-date"><em>2024.11</em></span> 🎉🎉 I have officially started using and updating my academic homepage.</li>
+<li><span class="news-date"><em style="color:#C9B1FF">2024.11</em></span> 🎉🎉 I have officially started using and updating my academic homepage.</li>
   </ul>
 </div>
 
