@@ -53,6 +53,7 @@ title('三角窗, N=33');
 
 ## 五、实验结果
 分别采用矩形窗、汉宁窗、三角窗，在窗口长度 \(N=15\) 和 \(N=33\) 下得到幅频响应和相频响应曲线（幅值以 dB 表示，相位以度表示）。主要观察结论如下：
+
 <img width="667" height="356" alt="image" src="https://github.com/user-attachments/assets/2add9698-c331-4f4e-8453-65b0d8a5c719" />
 
 <img width="679" height="355" alt="image" src="https://github.com/user-attachments/assets/6087f9e8-5443-42e7-b98a-e9eefd46ba58" />
