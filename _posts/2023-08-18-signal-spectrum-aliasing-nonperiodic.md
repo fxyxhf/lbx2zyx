@@ -122,6 +122,8 @@ legend('理论', '实际');
 ```
 
 ## 五、实验结果
+<img width="703" height="381" alt="image" src="https://github.com/user-attachments/assets/dbe9a5c5-2ce2-42b7-bab3-f6de53757d05" />
+<img width="725" height="384" alt="image" src="https://github.com/user-attachments/assets/f6b0c085-065c-425f-93be-93465bc63e76" />
 
 ### 1. 指数信号
 - **高采样率（`fs=100 Hz`）**：离散幅度谱与理论曲线高度吻合，在 `f=0` 处幅值最大，随频率升高单调递减，无混叠。
