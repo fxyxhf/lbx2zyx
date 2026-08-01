@@ -5,7 +5,7 @@ main:
     url: "/"
 
   - title: "Blog"
-    url: "/#posts"
+    url: "/posts/"
     
  # - title: "Publications"
  #   url: "/#publications"
