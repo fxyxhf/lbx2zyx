@@ -1,23 +1,23 @@
 # main links links
 
 main:
-  - title: "Experience"
-    url: "/#experience"
+ # - title: "Experience"
+ #   url: "/#experience"
 
-  - title: "News"
-    url: "/#news"
+ # - title: "News"
+ #   url: "/#news"
     
-  - title: "Publications"
-    url: "/#publications"
+ # - title: "Publications"
+ #   url: "/#publications"
 
-  - title: "Projects"
-    url: "/#projects"
+#  - title: "Projects"
+  #  url: "/#projects"
 
-  - title: "Awards"
-    url: "/#awards"
+#  - title: "Awards"
+  #  url: "/#awards"
 
-  - title: "Services"
-    url: "/#services"
+#  - title: "Services"
+  #  url: "/#services"
     
   # - title: "Talks"
   #  url: "/#talks"
