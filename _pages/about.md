@@ -13,16 +13,16 @@ redirect_from:
 
 <div style="padding-bottom: 15px; margin-bottom: 15px;">
   <div style="text-align: justify; line-height: 1.6; font-size: 1em;">
-    Since 2021, I have been pursuing my undergraduate degree in Measurement and Control Technology and Instrumentation at 
-    <a href="https://www.jlu.edu.cn/" style="color: #F39C12; text-decoration: none;">Jilin University</a>, 
-    and since 2025, I have been pursuing my academic master's degree in Instrumentation Science and Technology at 
-    <a href="http://www.hit.edu.cn/" style="color: #F39C12; text-decoration: none;">Harbin Institute of Technology</a>.
-  </div>
-</div>
-
-<div style="padding-bottom: 15px; margin-bottom: 15px;">
-  <div style="text-align: justify; line-height: 1.6; font-size: 1em;">
-    I am an unwavering fan of <a href="https://hsr.hoyoverse.com/" style="color: #F39C12; text-decoration: none;">Honkai Star Rail</a> and <a href="https://zzz.hoyoverse.com/" style="color: #F39C12; text-decoration: none;">Zenless Zone Zero</a>. I have a passion for cutting-edge technology and international exchanges. I welcome like-minded researchers to contact me!
+    I am a master’s student at Harbin Institute of Technology. My research interests include 
+    <a href="#" style="color: #C9B1FF; text-decoration: none;">computer vision</a>, 
+    <a href="#" style="color: #C9B1FF; text-decoration: none;">autonomous driving</a> and 
+    <a href="#" style="color: #C9B1FF; text-decoration: none;">robotics</a>.
+    Meanwhile, I am a loyal fan of 
+    <a href="https://hsr.hoyoverse.com/" style="color: #C9B1FF; text-decoration: none;">Honkai: Star Rail</a>, 
+    <a href="https://zzz.hoyoverse.com/" style="color: #C9B1FF; text-decoration: none;">Zenless Zone Zero</a>, 
+    <a href="https://azurlane.yo-star.com/" style="color: #C9B1FF; text-decoration: none;">Azur Lane</a> and 
+    <a href="https://genshin.hoyoverse.com/" style="color: #C9B1FF; text-decoration: none;">Genshin Impact</a>.
+    I am enthusiastic about cutting-edge technologies and international academic exchanges. Like-minded researchers are welcome to contact me anytime!
   </div>
 </div>
 
