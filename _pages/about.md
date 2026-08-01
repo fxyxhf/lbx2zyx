@@ -26,15 +26,6 @@ redirect_from:
   </div>
 </div>
 
-<div style="line-height: 1.8; font-size: 1em;">
-  📈 My research interests include
-  <ul style="margin: 0; padding: 0;">
-    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://scholar.google.com/scholar?q=computer+vision" style="color: #F39C12; text-decoration: none;">Computer Vision</a></li>
-    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://scholar.google.com/scholar?q=autonomous+driving" style="color: #F39C12; text-decoration: none;">Autonomous Driving</a></li>
-    <li style="list-style: disc; margin-left: 1em; line-height: 1.8;"><a href="https://scholar.google.com/scholar?q=natural+language+processing" style="color: #F39C12; text-decoration: none;">Natural Language Processing</a></li>
-  </ul>
-</div>
-
 <div style="margin: 30px 0;">
   <h3 style="margin: 0 0 20px 0; color: #333;">🛠️ Tech Stack</h3>
   <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center; justify-content: center;">
