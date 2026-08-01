@@ -18,7 +18,7 @@ author:
   email            : "lubx_2021@163.com"
 
   arxiv            :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=quW8VIwAAAAJ&hl=zh-CN&oi=ao"
   impactstory      :
   orcid            : "https://orcid.org/0009-0009-5260-6171"
   semantic         :
@@ -34,7 +34,7 @@ author:
 
   WeChat           : "images/weixin.png" 
   linkedin         :
-  bilibili         :
+  bilibili         : "https://space.bilibili.com/1733155550?spm_id_from=333.788.0.0"
   twitter          :
   youtube          :
   zhihu            : "https://www.zhihu.com/people/feng-xian-you-xun-huan-fei" 
@@ -222,7 +222,7 @@ sass:
   style: compressed
 
 permalink: /:categories/:title/
-timezone: UTC
+timezone: Asia/Shanghai
 
 plugins:
   - jekyll-paginate
