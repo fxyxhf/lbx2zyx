@@ -180,7 +180,7 @@ function BeijingTime(){
   const h = String(bj.getHours()).padStart(2,'0');
   const mi = String(bj.getMinutes()).padStart(2,'0');
   const s = String(bj.getSeconds()).padStart(2,'0');
-  document.getElementById("clock-cn").innerText = `Beijing Time: ${y}-${mo}-${d} ${w} ${h}:${mi}:${s}`;
+  document.getElementById("clock-cn").innerText = `${y}-${mo}-${d} ${w} ${h}:${mi}:${s}`;
 }
 BeijingTime();
 setInterval(BeijingTime,1000);
