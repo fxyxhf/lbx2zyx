@@ -123,12 +123,13 @@ legend('理论', '实际');
 
 ## 五、实验结果
 <img width="703" height="381" alt="image" src="https://github.com/user-attachments/assets/dbe9a5c5-2ce2-42b7-bab3-f6de53757d05" />
-<img width="725" height="384" alt="image" src="https://github.com/user-attachments/assets/f6b0c085-065c-425f-93be-93465bc63e76" />
 
 ### 1. 指数信号
 - **高采样率（`fs=100 Hz`）**：离散幅度谱与理论曲线高度吻合，在 `f=0` 处幅值最大，随频率升高单调递减，无混叠。
 - **低采样率（`fs=5 Hz`）**：离散频谱在低频段（`-2.5~2.5 Hz`）出现明显失真，高频端的拖尾能量被折叠回低频，导致实际谱线高于理论值，出现**频谱混叠**。
 - 对比可知，采样率越低，混叠越严重。
+
+<img width="725" height="384" alt="image" src="https://github.com/user-attachments/assets/f6b0c085-065c-425f-93be-93465bc63e76" />
 
 ### 2. 矩形脉冲信号
 - **高采样率（`fs=100 Hz`）**：离散频谱很好地逼近理论 `sinc` 形状，主瓣和旁瓣清晰可辨。
