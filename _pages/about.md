@@ -51,22 +51,16 @@ News
 <div class="news-box">
   <ul class="news-list">
 
-<li><span class="news-date"><em>2026.10</em></span> 🚀🚀 Submitted a paper 3 minutes before the deadline.</li>
 
-<li><span class="news-date"><em>2025.12</em></span> 😅😅 Unexpectedly got fired.</li>
-<li><span class="news-date"><em>2026.09</em></span> 📉📉 My GPU resigned before I did.</li>
-<li><span class="news-date"><em>2026.08</em></span> ☕☕ Survived on coffee for 72 consecutive hours.</li>
+<li><span class="news-date"><em>2026.05</em></span> 🎉🎉 My paper has been accepted by ***Engineering Research Express*** (JCR Q2).</li>
 
-<li><span class="news-date"><em>2026.05</em></span> 🎉🎉 I begin my internship at Weijia.</li>
-<li><span class="news-date"><em>2025.12</em></span> 😅😅 Unexpectedly got fired.</li>
+<li><span class="news-date"><em>2025.08</em></span> 🎉🎉 I participated in the Summer School on Air, Space, Land, and Sea Intelligent Perception Technology at Sun Yat-sen University and successfully completed the assessment.</li>
+<li><span class="news-date"><em>2025.04</em></span> 🎉🎉 My paper has been accepted by 2025 IEEE 3rd International Conference on Image Processing and Computer Applications (ICIPCA).</li>
 
-<li><span class="news-date"><em>2026.07</em></span> 🎉🎉 Promoted from intern to “experienced intern”.</li>
-<li><span class="news-date"><em>2026.06</em></span> 🤡🤡 Accidentally deleted the production database.</li>
+<li><span class="news-date"><em>2025.02</em></span> 🎉🎉 I joined the National Engineering Research Center for Geophysical Exploration Instrumentation.</li>
+<li><span class="news-date"><em>2024.11</em></span> 🎉🎉 I have received an offer to attend the winter school at Hanyang University.</li>
 
-<li><span class="news-date"><em>2026.05</em></span> 🎉🎉 I begin my internship at Haidilao.</li>
-<li><span class="news-date"><em>2025.12</em></span> 😅😅 Unexpectedly got fired.</li>
-
-<li><span class="news-date"><em>2024.10</em></span> 🎉🎉 I began my studies at MIT.</li>
+<li><span class="news-date"><em>2024.11</em></span> 🎉🎉 I have officially started using and updating my academic homepage.</li>
   </ul>
 </div>
 
