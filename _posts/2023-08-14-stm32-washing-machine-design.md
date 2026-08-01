@@ -1,8 +1,12 @@
 ---
 title: 基于STM32F103的简易洗衣机控制系统设计
 date: 2023-08-14
-categories: STM32实验
-tags: [STM32F103,嵌入式,控制系统]
+publish_display_date: 2023-08-14
+excerpt: ""
+categories: [Embedded]
+tags: [STM32, 嵌入式, 控制系统]
+layout: single
+author_profile: true
 ---
 
 ## 一、实验要求
