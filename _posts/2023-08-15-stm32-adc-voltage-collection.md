@@ -1,5 +1,5 @@
 ---
-title: 基于STM32F103的ADC电压采集实验
+title: STM32F103 ADC电压采集实验
 date: 2023-08-15
 publish_display_date: 2023-08-15
 excerpt: ""
