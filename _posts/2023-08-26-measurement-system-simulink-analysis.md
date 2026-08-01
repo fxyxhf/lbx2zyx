@@ -97,7 +97,7 @@ author_profile: true
 
 <img width="646" height="330" alt="image" src="https://github.com/user-attachments/assets/72f3f380-66f2-48f5-a589-0032d8ed43ed" />
 
-![Uploading image.png…]()
+<img width="646" height="330" alt="image" src="https://github.com/user-attachments/assets/d2b7471f-250e-4439-83db-3651b996905b" />
 
 ### 4.1 时域响应（e指数信号激励）
 1. **一阶低通（τ=1）**：输出跟踪输入，存在指数上升过程，上升时间约为 2.2τ。
