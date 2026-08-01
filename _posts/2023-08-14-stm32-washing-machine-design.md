@@ -1,5 +1,5 @@
 ---
-title: 基于STM32F103的简易洗衣机控制系统设计
+title: STM32F103简易洗衣机控制系统设计
 date: 2023-08-14
 publish_display_date: 2023-08-14
 excerpt: ""
