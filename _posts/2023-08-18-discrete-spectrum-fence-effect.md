@@ -1,5 +1,5 @@
 ---
-title: 基于MATLAB的离散非周期信号频谱分析——栅栏效应与补零研究
+title: 离散非周期信号频谱分析——栅栏效应与补零研究
 date: 2023-08-18
 publish_display_date: 2023-08-18
 excerpt: ""
