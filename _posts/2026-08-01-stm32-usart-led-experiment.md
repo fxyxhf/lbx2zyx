@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "STM32F103 串行通信控制LED实验"
 date: 2026-08-01
