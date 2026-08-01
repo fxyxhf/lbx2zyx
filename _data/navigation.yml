@@ -1,9 +1,8 @@
 # main links links
 
 main:
-- name: Home
+  - name: Home
     link: /
-    
   - name: Blog
     link: /posts/
     
