@@ -26,16 +26,15 @@ redirect_from:
   </div>
 </div>
 
-<div style="margin: 30px 0;">
-  <h3 style="margin: 0 0 20px 0; color: #333;">🛠️ Tech Stack</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center; justify-content: center;">
-    <a href="https://skillicons.dev">
+🛠️ Tech Stack
+---------------
+<div class="news-box" style="overflow: visible;">
+<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center; justify-content: center; padding: 10px 0;">
+    <a href="https://skillicons.dev" target="_blank">
       <img src="https://skillicons.dev/icons?i=anaconda,autocad,blender,c,cs,cpp,git,github,gitlab,gmail,html,ai,js,latex,matlab,octave,opencv,powershell,pycharm,py,pytorch,qt,r,ros,tensorflow,ubuntu,unity,visualstudio,vscode" />
     </a>
-  </div>
 </div>
-
-<div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;"></div>
+</div>
 
 🔥 News
 ---------------
@@ -59,20 +58,20 @@ redirect_from:
 ---------------
 <div class="news-box">
   <ul class="news-list">
-<li><span>2025.11-present</span> <span style="color:#D8BFD8">Development of mixed-flow/axial-flow turbine data post-processing system</span></li>
-<li><span>2025.10-2026.05</span> <span style="color:#D8BFD8">High-fidelity 3D reconstruction and surface mesh extraction method based on Gaussian splatting and wheeled robots</span></li>
-<li><span>2025.03-2025.05</span> <span style="color:#D8BFD8">Research and development of visible camera dynamic communication technology for autonomous vehicles</span></li>
-<li><span>2024.10-2025.06</span> <span style="color:#D8BFD8">Development and online application of large-scale multi-dimensional intelligent flexible inspection system</span></li>
-<li><span>2024.10-2024.12</span> <span style="color:#D8BFD8">Research on key technologies for joint multi-satellite large-area coverage imaging</span></li>
-<li><span>2024.04-2024.06</span> <span style="color:#D8BFD8">Research on key technology of commercial vehicle decarbonization based on intelligent cylinder stopping regulation mechanism</span></li>
-<li><span>2023.06-2025.04</span> <span style="color:#D8BFD8">Development of an experimental demonstration instrument based on Kirchhoff's law of thermal radiation</span></li>
-<li><span>2023.04-2023.06</span> <span style="color:#D8BFD8">Statistical inference for non-smooth and high-frequency time series models</span></li>
+<li><span style="font-style: italic;">2025.11-present</span> <span style="color:#D8BFD8">Development of mixed-flow/axial-flow turbine data post-processing system</span></li>
+<li><span style="font-style: italic;">2025.10-2026.05</span> <span style="color:#D8BFD8">High-fidelity 3D reconstruction and surface mesh extraction method based on Gaussian splatting and wheeled robots</span></li>
+<li><span style="font-style: italic;">2025.03-2025.05</span> <span style="color:#D8BFD8">Research and development of visible camera dynamic communication technology for autonomous vehicles</span></li>
+<li><span style="font-style: italic;">2024.10-2025.06</span> <span style="color:#D8BFD8">Development and online application of large-scale multi-dimensional intelligent flexible inspection system</span></li>
+<li><span style="font-style: italic;">2024.10-2024.12</span> <span style="color:#D8BFD8">Research on key technologies for joint multi-satellite large-area coverage imaging</span></li>
+<li><span style="font-style: italic;">2024.04-2024.06</span> <span style="color:#D8BFD8">Research on key technology of commercial vehicle decarbonization based on intelligent cylinder stopping regulation mechanism</span></li>
+<li><span style="font-style: italic;">2023.06-2025.04</span> <span style="color:#D8BFD8">Development of an experimental demonstration instrument based on Kirchhoff's law of thermal radiation</span></li>
+<li><span style="font-style: italic;">2023.04-2023.06</span> <span style="color:#D8BFD8">Statistical inference for non-smooth and high-frequency time series models</span></li>
   </ul>
 </div>
 
 📝 Publications
 ---------------
-<div class="news-box">
+<div class="news-box" style="overflow: visible;">
 <ul class="news-list">
 <li>A robust two-stage stereo calibration framework with regularized closed-form initialization and linear distortion pre-estimation. <span style="color:#D8BFD8"><i><b>Measurement</b></i></span>, submitted. (JCR Q1, 1st author)</li>
 <li>2D-MRGGS: a parametrized speckle pattern and its metrological framework for online uncertainty prediction and accuracy specification. <span style="color:#D8BFD8"><i><b>Measurement</b></i></span>, submitted. (JCR Q1, 1st author)</li>
