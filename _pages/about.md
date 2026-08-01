@@ -14,14 +14,14 @@ redirect_from:
 <div style="padding-bottom: 15px; margin-bottom: 15px;">
   <div style="text-align: justify; line-height: 1.6; font-size: 1em;">
     I am a master’s student at Harbin Institute of Technology. My research interests include 
-    <a href="#" style="color: #C9B1FF; text-decoration: none;">computer vision</a>, 
-    <a href="#" style="color: #C9B1FF; text-decoration: none;">autonomous driving</a> and 
-    <a href="#" style="color: #C9B1FF; text-decoration: none;">robotics</a>.
+    <a href="[#](https://scholar.google.com/scholar?q=computer+vision)" style="color: #D8BFD8; text-decoration: none;">computer vision</a>, 
+    <a href="[#](https://scholar.google.com/scholar?q=autonomous+driving)" style="color: #D8BFD8; text-decoration: none;">autonomous driving</a> and 
+    <a href="[#](https://scholar.google.com/scholar?q=robotics)" style="color: #D8BFD8; text-decoration: none;">robotics</a>.
     Meanwhile, I am a loyal fan of 
-    <a href="https://hsr.hoyoverse.com/" style="color: #C9B1FF; text-decoration: none;">Honkai: Star Rail</a>, 
-    <a href="https://zzz.hoyoverse.com/" style="color: #C9B1FF; text-decoration: none;">Zenless Zone Zero</a>, 
-    <a href="https://azurlane.yo-star.com/" style="color: #C9B1FF; text-decoration: none;">Azur Lane</a> and 
-    <a href="https://genshin.hoyoverse.com/" style="color: #C9B1FF; text-decoration: none;">Genshin Impact</a>.
+    <a href="https://hsr.hoyoverse.com/" style="color: #D8BFD8; text-decoration: none;">Honkai: Star Rail</a>, 
+    <a href="https://zzz.hoyoverse.com/" style="color: #D8BFD8; text-decoration: none;">Zenless Zone Zero</a>, 
+    <a href="https://azurlane.yo-star.com/" style="color: #D8BFD8; text-decoration: none;">Azur Lane</a> and 
+    <a href="https://genshin.hoyoverse.com/" style="color: #D8BFD8; text-decoration: none;">Genshin Impact</a>.
     I am enthusiastic about cutting-edge technologies and international academic exchanges. Like-minded researchers are welcome to contact me anytime!
   </div>
 </div>
@@ -41,17 +41,17 @@ News
 ---------------
 <div class="news-box">
   <ul class="news-list">
-<li><span class="news-date"><em style="color:#C9B1FF">2026.05</em></span> 🎉🎉 My paper has been accepted by <b><i>Engineering Research Express</i></b> (JCR Q2).</li>
+<li><span class="news-date"><em style="color:#D8BFD8">2026.05</em></span> 🎉🎉 My paper has been accepted by <b><i>Engineering Research Express</i></b> (JCR Q2).</li>
 
-<li><span class="news-date"><em style="color:#C9B1FF">2025.08</em></span> 🎉🎉 I participated in the Summer School on Air, Space, Land, and Sea Intelligent Perception Technology at Sun Yat-sen University and successfully completed the assessment.</li>
+<li><span class="news-date"><em style="color:#D8BFD8">2025.08</em></span> 🎉🎉 I participated in the Summer School on Air, Space, Land, and Sea Intelligent Perception Technology at Sun Yat-sen University and successfully completed the assessment.</li>
 
-<li><span class="news-date"><em style="color:#C9B1FF">2025.04</em></span> 🎉🎉 My paper has been accepted by 2025 IEEE 3rd International Conference on Image Processing and Computer Applications (ICIPCA).</li>
+<li><span class="news-date"><em style="color:#D8BFD8">2025.04</em></span> 🎉🎉 My paper has been accepted by 2025 IEEE 3rd International Conference on Image Processing and Computer Applications (ICIPCA).</li>
 
-<li><span class="news-date"><em style="color:#C9B1FF">2025.02</em></span> 🎉🎉 I joined the National Engineering Research Center for Geophysical Exploration Instrumentation.</li>
+<li><span class="news-date"><em style="color:#D8BFD8">2025.02</em></span> 🎉🎉 I joined the National Engineering Research Center for Geophysical Exploration Instrumentation.</li>
 
-<li><span class="news-date"><em style="color:#C9B1FF">2024.11</em></span> 🎉🎉 I have received an offer to attend the winter school at Hanyang University.</li>
+<li><span class="news-date"><em style="color:#D8BFD8">2024.11</em></span> 🎉🎉 I have received an offer to attend the winter school at Hanyang University.</li>
 
-<li><span class="news-date"><em style="color:#C9B1FF">2024.11</em></span> 🎉🎉 I have officially started using and updating my academic homepage.</li>
+<li><span class="news-date"><em style="color:#D8BFD8">2024.11</em></span> 🎉🎉 I have officially started using and updating my academic homepage.</li>
   </ul>
 </div>
 
