@@ -3,6 +3,8 @@ layout: archive
 title: "Blog"
 permalink: /posts/
 author_profile: true
+sidebar:
+  nav: "sidebar-menu"
 ---
 
 {% for post in site.posts %}
