@@ -54,6 +54,21 @@ redirect_from:
   </ul>
 </div>
 
+🔍 Projects
+---------------
+<div class="news-box">
+  <ul class="news-list">
+<li><span style="font-style: italic;">2025.11-present</span> <span style="color:#D8BFD8">Development of mixed-flow/axial-flow turbine data post-processing system</span></li>
+<li><span style="font-style: italic;">2025.10-2026.05</span> <span style="color:#D8BFD8">High-fidelity 3D reconstruction and surface mesh extraction method based on Gaussian splatting and wheeled robots</span></li>
+<li><span style="font-style: italic;">2025.03-2025.05</span> <span style="color:#D8BFD8">Research and development of visible camera dynamic communication technology for autonomous vehicles</span></li>
+<li><span style="font-style: italic;">2024.10-2025.06</span> <span style="color:#D8BFD8">Development and online application of large-scale multi-dimensional intelligent flexible inspection system</span></li>
+<li><span style="font-style: italic;">2024.10-2024.12</span> <span style="color:#D8BFD8">Research on key technologies for joint multi-satellite large-area coverage imaging</span></li>
+<li><span style="font-style: italic;">2024.04-2024.06</span> <span style="color:#D8BFD8">Research on key technology of commercial vehicle decarbonization based on intelligent cylinder stopping regulation mechanism</span></li>
+<li><span style="font-style: italic;">2023.06-2025.04</span> <span style="color:#D8BFD8">Development of an experimental demonstration instrument based on Kirchhoff's law of thermal radiation</span></li>
+<li><span style="font-style: italic;">2023.04-2023.06</span> <span style="color:#D8BFD8">Statistical inference for non-smooth and high-frequency time series models</span></li>
+  </ul>
+</div>
+
 📝 Publications
 ---------------
 <div style="background: #f7f7f7; border-radius: 12px; padding: 16px 20px;">
@@ -63,20 +78,7 @@ redirect_from:
 <li style="margin-bottom:12px;">Gated hierarchical reinforcement learning control for autonomous multi-mode switching in mode-locked fiber lasers. <span style="color:#D8BFD8"><i><b>Opt. Laser Technol.</b></i></span>, submitted. (JCR Q1, 2nd author)</li>
 <li style="margin-bottom:12px;">Lane‑traversal path planning on structured roads via geometry‑guided pruning and hierarchical divide‑and‑conquer optimization. <span style="color:#D8BFD8"><i><b>Eng. Res. Express</b></i></span>, 2026, 8: 115211. (JCR Q2, 1st author)</li>
 <li style="margin-bottom:12px;">Dual-domain collaborative vision framework for high-fidelity defect detection: integrating line structured light with adaptive 2D/3D fusion. <span style="color:#D8BFD8"><i><b>J. Mod. Opt.</b></i></span>, submitted. (JCR Q4, 1st author)</li>
-<li>A hybrid framework for dynamic optimization of racing car braking system based on BiLSTM and GBDT. Proc. 2025 IEEE 3rd Int. Conf. Image Process. Comput. Appl. (ICIPCA), 2025, pp. 2156-2160. (EI conference, 1st author)</li>
-</ul>
-</div>
-
-📝 Publications
----------------
-<div class="news-box" style="overflow: auto;">
-<ul class="news-list">
-<li>A robust two-stage stereo calibration framework with regularized closed-form initialization and linear distortion pre-estimation. <span style="color:#D8BFD8"><i><b>Measurement</b></i></span>, submitted. (JCR Q1, 1st author)</li>
-<li>2D-MRGGS: a parametrized speckle pattern and its metrological framework for online uncertainty prediction and accuracy specification. <span style="color:#D8BFD8"><i><b>Measurement</b></i></span>, submitted. (JCR Q1, 1st author)</li>
-<li>Gated hierarchical reinforcement learning control for autonomous multi-mode switching in mode-locked fiber lasers. <span style="color:#D8BFD8"><i><b>Opt. Laser Technol.</b></i></span>, submitted. (JCR Q1, 2nd author)</li>
-<li>Lane‑traversal path planning on structured roads via geometry‑guided pruning and hierarchical divide‑and‑conquer optimization. <span style="color:#D8BFD8"><i><b>Eng. Res. Express</b></i></span>, 2026, 8: 115211. (JCR Q2, 1st author)</li>
-<li>Dual-domain collaborative vision framework for high-fidelity defect detection: integrating line structured light with adaptive 2D/3D fusion. <span style="color:#D8BFD8"><i><b>J. Mod. Opt.</b></i></span>, submitted. (JCR Q4, 1st author)</li>
-<li>A hybrid framework for dynamic optimization of racing car braking system based on BiLSTM and GBDT. Proc. 2025 IEEE 3rd Int. Conf. Image Process. Comput. Appl. (ICIPCA), 2025, pp. 2156-2160. (EI conference, 1st author)</li>
+<li>A hybrid framework for dynamic optimization of racing car braking system based on BiLSTM and GBDT. <span style="color:#D8BFD8"><i><b>Proc. 2025 IEEE 3rd Int. Conf. Image Process. Comput. Appl. (ICIPCA)</b></i></span>, 2025, pp. 2156-2160. (EI conference, 1st author)</li>
 </ul>
 </div>
 
