@@ -1,16 +1,11 @@
 # main links links
 
 main:
-  - name: Home
-    link: /
-  - name: Blog
-    link: /posts/
-    
- # - title: "Experience"
- #   url: "/#experience"
+  - title: "Home"
+    url: "/"
 
- # - title: "News"
- #   url: "/#news"
+  - title: "Blog"
+    url: "/#posts"
     
  # - title: "Publications"
  #   url: "/#publications"
