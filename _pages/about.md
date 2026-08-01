@@ -14,12 +14,12 @@ redirect_from:
 <div style="padding-bottom: 15px; margin-bottom: 15px;">
   <div style="text-align: justify; line-height: 1.6; font-size: 1em;">
     I am a master’s student at Harbin Institute of Technology. My research interests include 
-    <a href="[#](https://scholar.google.com/scholar?q=computer+vision)" style="color: #D8BFD8; text-decoration: none;">computer vision</a>, 
-    <a href="[#](https://scholar.google.com/scholar?q=autonomous+driving)" style="color: #D8BFD8; text-decoration: none;">autonomous driving</a> and 
-    <a href="[#](https://scholar.google.com/scholar?q=robotics)" style="color: #D8BFD8; text-decoration: none;">robotics</a>.
+    <a href="https://scholar.google.com/scholar?q=computer+vision" style="color: #D8BFD8; text-decoration: none;">computer vision</a>, 
+    <a href="https://scholar.google.com/scholar?q=autonomous+driving" style="color: #D8BFD8; text-decoration: none;">autonomous driving</a> and 
+    <a href="https://scholar.google.com/scholar?q=robotics" style="color: #D8BFD8; text-decoration: none;">robotics</a>.
     Meanwhile, I am a loyal fan of 
     <a href="https://hsr.hoyoverse.com/" style="color: #D8BFD8; text-decoration: none;">Honkai: Star Rail</a>, 
-    <a href="https://zzz.hoyoverse.com/" style="color: #D8BFD8; text-decoration: none;">Zenless Zone Zero</a>, 
+    <a href="https://zzz.mihoyo.com/" style="color: #D8BFD8; text-decoration: none;">Zenless Zone Zero</a>, 
     <a href="https://azurlane.yo-star.com/" style="color: #D8BFD8; text-decoration: none;">Azur Lane</a> and 
     <a href="https://genshin.hoyoverse.com/" style="color: #D8BFD8; text-decoration: none;">Genshin Impact</a>.
     I am enthusiastic about cutting-edge technologies and international academic exchanges. Like-minded researchers are welcome to contact me anytime!
