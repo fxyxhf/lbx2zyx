@@ -162,11 +162,13 @@
       {% if author.zhihu %}
         <li><a href="{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
       {% endif %}     
-      {% if author.XiaoHongShu %}
+            {% if author.XiaoHongShu %}
         <li><a href="{{ author.XiaoHongShu }}"><i class="fas fa-fw fa-book icon-pad-right" aria-hidden="true"></i>RedNote</a></li>
       {% endif %} 
 
-      <div id="clock-cn" style="margin-top:14px; font-size:14.5px; color:#666;"></div>
+    </ul>
+    <!-- 【重点】时钟放到 ul 外部，不再非法嵌套 -->
+    <div id="clock-cn" style="margin-top:14px; font-size:14.5px; color:#666; padding-left:28px;"></div>
 <script>
 function BeijingTime(){
   const weekArr = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
@@ -185,7 +187,5 @@ function BeijingTime(){
 BeijingTime();
 setInterval(BeijingTime,1000);
 </script>
-      
-    </ul>
   </div>
 </div>
