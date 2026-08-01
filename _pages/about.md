@@ -37,7 +37,7 @@ redirect_from:
 
 <div style="border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px;"></div>
 
-News
+🔥 News
 ---------------
 <div class="news-box">
   <ul class="news-list">
@@ -52,6 +52,21 @@ News
 <li><span class="news-date"><em style="color:#D8BFD8">2024.11</em></span> 🎉🎉 I have received an offer to attend the winter school at Hanyang University.</li>
 
 <li><span class="news-date"><em style="color:#D8BFD8">2024.11</em></span> 🎉🎉 I have officially started using and updating my academic homepage.</li>
+  </ul>
+</div>
+
+🔍 Projects
+---------------
+<div class="news-box">
+  <ul class="news-list">
+<li><span class="news-date"><em>2025.11-present</em></span> <span style="color:#D8BFD8">Development of mixed-flow/axial-flow turbine data post-processing system</span></li>
+<li><span class="news-date"><em>2025.10-2026.05</em></span> <span style="color:#D8BFD8">High-fidelity 3D Reconstruction and Surface Mesh Extraction Method Based on Gaussian Splatting and Wheeled Robots</span></li>
+<li><span class="news-date"><em>2025.03-2025.05</em></span> <span style="color:#D8BFD8">Research and Development of Visible Camera Dynamic Communication Technology for Autonomous Vehicles</span></li>
+<li><span class="news-date"><em>2024.10-2025.06</em></span> <span style="color:#D8BFD8">Development and Online Application of Large-scale Multi-dimensional Intelligent Flexible Inspection System</span></li>
+<li><span class="news-date"><em>2024.10-2024.12</em></span> <span style="color:#D8BFD8">Research on key technologies for joint multi-satellite large-area coverage imaging</span></li>
+<li><span class="news-date"><em>2024.04-2024.06</em></span> <span style="color:#D8BFD8">Research on key technology of commercial vehicle decarbonization based on intelligent cylinder stopping regulation mechanism</span></li>
+<li><span class="news-date"><em>2023.06-2025.04</em></span> <span style="color:#D8BFD8">Development of an Experimental Demonstration Instrument Based on Kirchhoff's Law of Thermal Radiation</span></li>
+<li><span class="news-date"><em>2023.04-2023.06</em></span> <span style="color:#D8BFD8">Statistical Inference for Non-Smooth and High-Frequency Time Series Models</span></li>
   </ul>
 </div>
 
