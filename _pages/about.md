@@ -42,7 +42,7 @@ News
 <div class="news-box">
   <ul class="news-list">
 <li><span class="news-date"><em style="color:#D8BFD8">2026.05</em></span> 🎉🎉 My paper has been accepted by <b><i>Engineering Research Express</i></b> (JCR Q2).</li>
-
+<li><span class="news-date"><em style="color:#D8BFD8">2026.04</em></span> 🎉🎉 I have completed an exchange program at the Department of Lasers and Optoelectronic Systems, Bauman Moscow State Technical University.</li>
 <li><span class="news-date"><em style="color:#D8BFD8">2025.08</em></span> 🎉🎉 I participated in the Summer School on Air, Space, Land, and Sea Intelligent Perception Technology at Sun Yat-sen University and successfully completed the assessment.</li>
 
 <li><span class="news-date"><em style="color:#D8BFD8">2025.04</em></span> 🎉🎉 My paper has been accepted by 2025 IEEE 3rd International Conference on Image Processing and Computer Applications (ICIPCA).</li>
