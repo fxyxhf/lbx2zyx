@@ -1,6 +1,6 @@
 ---
 title: "STM32F103 串行通信控制LED实验"
-date: 2026-08-01
+date: 2023-08-13
 categories: [Embedded]
 tags: [STM32, USART, 串口通信, 嵌入式]
 layout: single
