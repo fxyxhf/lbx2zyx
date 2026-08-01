@@ -70,6 +70,21 @@ redirect_from:
   </ul>
 </div>
 
+🔍 Projects
+---------------
+<div class="news-box">
+  <ul class="news-list">
+<li><span class="news-date"><em>2025.11-present</em></span> <span style="color:#C9B1FF" onmouseover="this.style.color='#b998ff'" onmouseout="this.style.color='#C9B1FF'">Development of mixed-flow/axial-flow turbine data post-processing system</span></li>
+<li><span class="news-date"><em>2025.10-2026.05</em></span> <span style="color:#C9B1FF" onmouseover="this.style.color='#b998ff'" onmouseout="this.style.color='#C9B1FF'">High-fidelity 3D Reconstruction and Surface Mesh Extraction Method Based on Gaussian Splatting and Wheeled Robots</span></li>
+<li><span class="news-date"><em>2025.03-2025.05</em></span> <span style="color:#C9B1FF" onmouseover="this.style.color='#b998ff'" onmouseout="this.style.color='#C9B1FF'">Research and Development of Visible Camera Dynamic Communication Technology for Autonomous Vehicles</span></li>
+<li><span class="news-date"><em>2024.10-2025.06</em></span> <span style="color:#C9B1FF" onmouseover="this.style.color='#b998ff'" onmouseout="this.style.color='#C9B1FF'">Development and Online Application of Large-scale Multi-dimensional Intelligent Flexible Inspection System</span></li>
+<li><span class="news-date"><em>2024.10-2024.12</em></span> <span style="color:#C9B1FF" onmouseover="this.style.color='#b998ff'" onmouseout="this.style.color='#C9B1FF'">Research on key technologies for joint multi-satellite large-area coverage imaging</span></li>
+<li><span class="news-date"><em>2024.04-2024.06</em></span> <span style="color:#C9B1FF" onmouseover="this.style.color='#b998ff'" onmouseout="this.style.color='#C9B1FF'">Research on key technology of commercial vehicle decarbonization based on intelligent cylinder stopping regulation mechanism</span></li>
+<li><span class="news-date"><em>2023.06-2025.04</em></span> <span style="color:#C9B1FF" onmouseover="this.style.color='#b998ff'" onmouseout="this.style.color='#C9B1FF'">Development of an Experimental Demonstration Instrument Based on Kirchhoff's Law of Thermal Radiation</span></li>
+<li><span class="news-date"><em>2023.04-2023.06</em></span> <span style="color:#C9B1FF" onmouseover="this.style.color='#b998ff'" onmouseout="this.style.color='#C9B1FF'">Statistical Inference for Non-Smooth and High-Frequency Time Series Models</span></li>
+  </ul>
+</div>
+
 <!--
 Experience
 --------------
