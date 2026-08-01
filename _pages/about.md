@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<h1 class="main-heading">Hi there <img src="images/Hi.gif" width="40px"> Welcome to my Homepage!</h1>
+<h1 class="main-heading" style="color: #D8BFD8; font-family: 'Georgia', 'Times New Roman', serif; font-style: italic; font-weight: 500; letter-spacing: 1.2px; text-shadow: 0 0 18px rgba(201, 177, 255, 0.35);">
+   <img src="images/Hi.gif" width="40px"> Welcome to my Homepage!
+</h1>
 
 <div style="padding-bottom: 15px; margin-bottom: 15px;">
   <div style="text-align: justify; line-height: 1.6; font-size: 1em;">
