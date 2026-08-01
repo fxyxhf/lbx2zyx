@@ -68,6 +68,7 @@ News
   </ul>
 </div>
 
+<!--
 Experience
 --------------
 
@@ -228,7 +229,7 @@ Publications
       <span class="pub-list-badge">ACL 3028</span>
       <span class="pub-list-title">SleepFormer v3: Towards Fully Autonomous Deadline Extension via Large Language Models</span><br>
       <span class="pub-list-authors">
-        <a href="https://wd7ang.github.io" target="_blank">
+        <a href="httpswd7ang.github.io" target="_blank">
           <strong>Weidong Tang</strong>
         </a>,
         <a href="https://selen-suyue.github.io/" target="_blank">
@@ -350,3 +351,4 @@ Talks
 - *3025.11*, “On the Emotional Stability of GPUs Under Extreme Stress.”
 - *3025.08*, “Instant Noodles as Scalable Research Infrastructure.”
 - *3025.03*, “Sleep is Temporary, Camera-Ready is Forever.”
+-->
