@@ -3,8 +3,8 @@ title                    : "FXYXHF/ Homepage"
 title_separator          : "-"
 name                     : "FXYXHF"
 description              : "Master Candidate"
-url                      : ""
-baseurl                  : ""
+url                      : "https://fxyxhf.github.io"
+baseurl                  : "/lbx2zyx"
 repository               : ""
 
 author:
