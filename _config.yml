@@ -1,7 +1,7 @@
 locale                   : "en-US"
-title                    : "Baixin Lu/ Homepage"
+title                    : "FXYXHF/ Homepage"
 title_separator          : "-"
-name                     : "Baixin Lu"
+name                     : "FXYXHF"
 description              : "Master Candidate"
 url                      : ""
 baseurl                  : ""
@@ -9,7 +9,7 @@ repository               : ""
 
 author:
   avatar           : "1.png"
-  name             : "Baixin Lu"
+  name             : "FXYXHF 凤先又寻欢飞"
   pronouns         :
   bio              : "Harbin Institute of Technology"
   location         : "Harbin, China"
