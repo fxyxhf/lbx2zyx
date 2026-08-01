@@ -43,15 +43,15 @@
 .sidebar__inner {
     overflow-y: auto !important;
     overflow-x: hidden !important;
-    max-height: calc(100vh - 32px) !important;
-    padding: 2rem 1rem !important;
+    max-height: calc(100vh - 24px) !important;
+    padding: 1rem 1rem !important;
 }
-/* 美化侧边栏滚动条 */
+/* 隐藏滚动条，支持Chrome、Edge、Firefox */
 .sidebar__inner::-webkit-scrollbar {
-    width: 5px;
+    display: none !important;
 }
-.sidebar__inner::-webkit-scrollbar-thumb {
-    background-color: #d0d0d0;
-    border-radius: 4px;
+.sidebar__inner {
+    scrollbar-width: none !important; /* Firefox */
+    -ms-overflow-style: none !important; /* IE/旧Edge */
 }
 </style>
