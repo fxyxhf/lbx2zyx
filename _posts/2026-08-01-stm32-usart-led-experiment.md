@@ -8,8 +8,6 @@ layout: single
 author_profile: true
 ---
 
-# STM32串行通信实验
-
 ## 一、实验目的
 基于STM32F103ZET6编写程序，在串口调试助手中输入`$START$`时绿灯点亮；输入`$STOP$`时绿灯熄灭。
 
