@@ -2,7 +2,7 @@
 title: 89C52单片机控制PWM输出的直流电机闭环调速系统设计
 date: 2024-02-08
 publish_display_date: 2024-02-08
-excerpt: "基于89C52单片机，利用定时器2产生PWM波，通过PID算法实现直流电机闭环调速"
+excerpt: ""
 categories: [Microcontroller, Control System]
 tags: [89C52, PWM, 直流电机, PID控制, 闭环调速]
 layout: single
