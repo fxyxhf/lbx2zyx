@@ -1,7 +1,7 @@
 ---
 title: 点云变换方法
-date: 2025-04-29
-publish_display_date: 2025-04-29
+date: 2025-04-20
+publish_display_date: 2025-04-20
 excerpt: ""
 categories: [3D Vision, Point Cloud Processing]
 tags: [点云变换, 刚性变换, 非刚性变换, 配准, 深度学习]
