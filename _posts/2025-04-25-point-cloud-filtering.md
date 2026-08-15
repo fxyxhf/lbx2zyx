@@ -1,7 +1,7 @@
 ---
 title: 点云滤波方法
-date: 2025-04-30
-publish_display_date: 2025-04-30
+date: 2025-04-25
+publish_display_date: 2025-04-25
 excerpt: ""
 categories: [3D Vision, Point Cloud Processing]
 tags: [点云, 滤波, 去噪, 离群点剔除, 双边滤波, 深度学习]
