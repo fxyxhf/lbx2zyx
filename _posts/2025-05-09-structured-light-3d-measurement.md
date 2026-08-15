@@ -17,7 +17,11 @@ author_profile: true
 
 在主动式光学测量体系中，结构光技术根据光场投射模式可分为三种典型类别：点结构光扫描技术、线结构光条纹投影技术以及面结构光编码投影技术，其原理如图2所示，其中常用的是线结构光和面结构光，不同模式在测量速度、精度和系统复杂度方面呈现显著差异。
 
+<img width="932" height="722" alt="image" src="https://github.com/user-attachments/assets/0ee0597b-d2ab-491a-a3e0-848635618137" />
+
 > （图1 三维测量技术分类）
+
+<img width="1106" height="411" alt="image" src="https://github.com/user-attachments/assets/0a5b8401-5865-4ddf-b8e3-1a8b4bb6c55e" />
 
 > （图2 结构光技术原理图）
 
@@ -94,11 +98,15 @@ $$
 
 在二进制编码基础上引入相邻码元单比特变化规则（图3），显著提升了条纹边缘定位的鲁棒性。
 
+<img width="367" height="185" alt="image" src="https://github.com/user-attachments/assets/8b2d195c-268f-4d89-8e63-b562ef07546b" />
+
 > （图3 格雷码）
 
 **（3）多步相移法**
 
 基于正弦条纹相位偏移原理（图4），通过投影N幅相移量为2π/N的条纹图案，实现亚像素级相位解算，理论精度可达微米级。
+
+<img width="235" height="118" alt="image" src="https://github.com/user-attachments/assets/87493dfd-e598-4214-ba6b-630693e92454" />
 
 > （图4 多步相移法编码）
 
@@ -117,6 +125,8 @@ $$
 
 基于组合数学中的B(k,n)序列（图5），确保任意n长度子序列在投影图案中唯一出现。该编码在1m×1m测量范围内可实现约0.3mm的横向分辨率，但受环境光干扰时解码错误率显著增加。
 
+<img width="307" height="448" alt="image" src="https://github.com/user-attachments/assets/ccc6691c-a2a9-49e1-883a-050cdefd195d" />
+
 > （图5 De Bruijn序列）
 
 **（2）二维空间编码**
@@ -124,6 +134,8 @@ $$
 将De Bruijn序列扩展至二维域，典型实现包括：
 - **灰度阵列编码**：通过8bit灰度梯度建立位置映射，在标准光照条件下定位误差约2像素。
 - **彩色编码**（图6）：利用RGB三通道组合构建伪随机分布，编码容量提升至16^6量级，但受色彩串扰影响，实际解码成功率通常低于85%。
+
+<img width="235" height="226" alt="image" src="https://github.com/user-attachments/assets/be7f8d4c-f990-40d0-bb39-93e1912488f8" />
 
 > （图6 彩色二维空间编码）
 
