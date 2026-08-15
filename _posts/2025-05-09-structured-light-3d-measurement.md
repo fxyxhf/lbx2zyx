@@ -1,5 +1,5 @@
 ---
-title: 结构光三维测量技术综述
+title: 结构光三维测量技术
 date: 2025-05-09
 publish_display_date: 2025-05-09
 excerpt: ""
