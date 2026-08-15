@@ -1,7 +1,7 @@
 ---
 title: 点云粗配准方法
-date: 2025-04-30
-publish_display_date: 2025-04-30
+date: 2025-04-24
+publish_display_date: 2025-04-24
 excerpt: ""
 categories: [3D Vision, Point Cloud Processing]
 tags: [点云配准, 粗配准, FPFH, RANSAC, ICP, 语义配准]
