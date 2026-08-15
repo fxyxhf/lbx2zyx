@@ -1,5 +1,5 @@
 ---
-title: 点云滤波方法综述
+title: 点云滤波方法
 date: 2025-04-30
 publish_display_date: 2025-04-30
 excerpt: ""
