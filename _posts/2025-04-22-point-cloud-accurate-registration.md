@@ -1,7 +1,7 @@
 ---
 title: 点云精确配准方法
-date: 2025-04-30
-publish_display_date: 2025-04-30
+date: 2025-04-22
+publish_display_date: 2025-04-22
 excerpt: ""
 categories: [3D Vision, Point Cloud Processing]
 tags: [点云配准, ICP, 精确配准, SVD, 点云处理]
