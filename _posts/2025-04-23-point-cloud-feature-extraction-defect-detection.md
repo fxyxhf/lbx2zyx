@@ -1,7 +1,7 @@
 ---
 title: 点云特征提取与缺陷检测方法
-date: 2025-04-30
-publish_display_date: 2025-04-30
+date: 2025-04-23
+publish_display_date: 2025-04-23
 excerpt: ""
 categories: [3D Vision, Point Cloud Processing, Defect Detection]
 tags: [点云, 特征提取, 缺陷检测, 深度学习, 三维视觉]
