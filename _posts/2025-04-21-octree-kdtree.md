@@ -1,7 +1,7 @@
 ---
 title: 八叉树与KD树数据结构理论与应用
-date: 2025-04-30
-publish_display_date: 2025-04-30
+date: 2025-04-21
+publish_display_date: 2025-04-21
 excerpt: ""
 categories: [Data Structure, 3D Vision]
 tags: [八叉树, KD树, 空间索引, 最近邻搜索, 点云处理]
