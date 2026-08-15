@@ -1,7 +1,7 @@
 ---
 title: 点云上采样方法
-date: 2025-04-30
-publish_display_date: 2025-04-30
+date: 2025-04-28
+publish_display_date: 2025-04-28
 excerpt: ""
 categories: [3D Vision, Point Cloud Processing]
 tags: [点云上采样, 深度学习, PU-Net, 生成对抗网络, 移动最小二乘法]
