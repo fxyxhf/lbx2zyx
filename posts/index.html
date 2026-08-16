@@ -16,9 +16,9 @@ sidebar:
 
 <!-- 分页按钮 -->
 {% if paginator.total_pages > 1 %}
-<div style="margin‑top:30px;text‑align:center;">
+<div style="margin-top:30px;text-align:center;">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">← 上一页</a>
+    <a href="{{ paginator.previous_page_path }}">← 上一页</a>
   {% else %}
     <span style="color:#aaa">← 上一页</span>
   {% endif %}
@@ -26,7 +26,7 @@ sidebar:
   <span style="margin:0 15px;">第 {{ paginator.page }} / {{ paginator.total_pages }} 页</span>
 
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">下一页 →</a>
+    <a href="{{ paginator.next_page_path }}">下一页 →</a>
   {% else %}
     <span style="color:#aaa">下一页 →</span>
   {% endif %}
