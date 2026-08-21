@@ -21,6 +21,26 @@
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
+  <div id="clock-cn" style="margin:12px 0; font-size:14.5px; color:#666;"></div>
+<script>
+function BeijingTime(){
+  const weekArr = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+  const now = new Date();
+  const utc = now.getTime() + now.getTimezoneOffset() * 60000;
+  const bj = new Date(utc + 8 * 3600000);
+  const y = bj.getFullYear();
+  const mo = String(bj.getMonth()+1).padStart(2,'0');
+  const d = String(bj.getDate()).padStart(2,'0');
+  const w = weekArr[bj.getDay()];
+  const h = String(bj.getHours()).padStart(2,'0');
+  const mi = String(bj.getMinutes()).padStart(2,'0');
+  const s = String(bj.getSeconds()).padStart(2,'0');
+  document.getElementById("clock-cn").innerText = `${y}-${mo}-${d} ${w} ${h}:${mi}:${s}`;
+}
+BeijingTime();
+setInterval(BeijingTime,1000);
+</script>
+  
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
@@ -167,25 +187,6 @@
       {% endif %} 
 
     </ul>
-    <!-- 【重点】时钟放到 ul 外部，不再非法嵌套 -->
-    <div id="clock-cn" style="margin-top:14px; font-size:14.5px; color:#666; padding-left:28px;"></div>
-<script>
-function BeijingTime(){
-  const weekArr = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
-  const now = new Date();
-  const utc = now.getTime() + now.getTimezoneOffset() * 60000;
-  const bj = new Date(utc + 8 * 3600000);
-  const y = bj.getFullYear();
-  const mo = String(bj.getMonth()+1).padStart(2,'0');
-  const d = String(bj.getDate()).padStart(2,'0');
-  const w = weekArr[bj.getDay()];
-  const h = String(bj.getHours()).padStart(2,'0');
-  const mi = String(bj.getMinutes()).padStart(2,'0');
-  const s = String(bj.getSeconds()).padStart(2,'0');
-  document.getElementById("clock-cn").innerText = `${y}-${mo}-${d} ${w} ${h}:${mi}:${s}`;
-}
-BeijingTime();
-setInterval(BeijingTime,1000);
-</script>
+   
   </div>
 </div>
