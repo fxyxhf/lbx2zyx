@@ -249,3 +249,9 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+plugins:
+  - jekyll-paginate
+
+paginate: 10     
+paginate_path: "/posts/page:num/"
