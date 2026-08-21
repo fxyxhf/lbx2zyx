@@ -24,14 +24,17 @@
 .page__footer-copyright {
     display: none !important;
 }
-/* 直接隐藏整个footer容器，空白区域彻底消失 */
 .page__footer {
     display: none !important;
     padding: 0 !important;
     margin: 0 !important;
 }
 
-/* ========== 修复侧边栏被截断，移除侧边栏内部滚动条 ========== */
+/* 针对archive布局(Blog分页页)取消 sticky！这就是元凶 */
+.layout-archive .page__sidebar {
+    position: static !important;
+}
+
 .sidebar__inner {
     overflow-y: visible !important;
     max-height: unset !important;
@@ -42,19 +45,24 @@
     max-height: unset !important;
     height: auto !important;
 }
-/* 清除滚动条兜底 */
-.sidebar__inner::-webkit-scrollbar {
+
+.layout-archive .page__sidebar-wrap {
+    height: auto !important;
+    max-height: unset !important;
+    overflow: visible !important;
+}
+.layout-archive #main {
+  align-items: flex-start !important;
+}
+
+/* 隐藏滚动条 */
+.sidebar__inner::-webkit-scrollbar,
+.page__sidebar-wrap::-webkit-scrollbar{
     display: none !important;
 }
-.page__sidebar-wrap::-webkit-scrollbar {
-    display: none !important;
-}
-.sidebar__inner {
-    scrollbar-width: none !important;
-    -ms-overflow-style: none !important;
-}
-.page__sidebar-wrap {
+.sidebar__inner,.page__sidebar-wrap{
     scrollbar-width: none !important;
     -ms-overflow-style: none !important;
 }
 </style>
+
