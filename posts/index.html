@@ -1,0 +1,38 @@
+---
+layout: archive
+title: "Blog"
+author_profile: true
+sidebar:
+  nav: "sidebar-menu"
+# 重点！！这里不要写 permalink！！
+---
+
+{% for post in paginator.posts %}
+<h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+<span style="color:#666;">{{ post.date | date: "%Y‑%m‑%d" }}</span>
+<p>{{ post.excerpt }}</p>
+<hr>
+{% endfor %}
+
+<!--分页控件，处理page1不存在的bug-->
+{% if paginator.total_pages > 1 %}
+<div style="margin-top:30px;text-align:center;">
+  {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+      <a href="{{ "/posts/" | relative_url }}">← 上一页</a>
+    {% else %}
+      <a href="{{ paginator.previous_page_path | relative_url }}">← 上一页</a>
+    {% endif %}
+  {% else %}
+    <span style="color:#aaa">← 上一页</span>
+  {% endif %}
+
+  <span> 第 {{ paginator.page }} / {{ paginator.total_pages }} 页 </span>
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}">下一页 →</a>
+  {% else %}
+    <span style="color:#aaa">下一页 →</span>
+  {% endif %}
+</div>
+{% endif %}
