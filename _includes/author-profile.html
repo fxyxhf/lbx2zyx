@@ -21,7 +21,7 @@
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
-  <div id="clock-cn" style="margin:12px 0; font-size:14.5px; color:#666;"></div>
+  <div id="clock-cn" style="margin:12px 0; font-size:1rem; color:#5a5a5a; line-height:1.5;"></div>
 <script>
 function BeijingTime(){
   const weekArr = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
@@ -40,6 +40,7 @@ function BeijingTime(){
 BeijingTime();
 setInterval(BeijingTime,1000);
 </script>
+
   
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
