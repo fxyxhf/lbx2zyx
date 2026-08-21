@@ -1,20 +1,14 @@
 {% include base_path %}
-
 <meta charset="utf-8">
-
 {% include seo.html %}
-
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
-
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
-
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 {% if page.stylesheets %}
@@ -22,9 +16,7 @@
     <link rel="stylesheet" href="{{ stylesheet | prepend: base_path }}">
   {% endfor %}
 {% endif %}
-
 <meta http-equiv="cleartype" content="on">
-
 <style>
 .page__footer-follow {
     display: none !important;
@@ -39,19 +31,30 @@
     margin: 0 !important;
 }
 
-/* ========== 新增：侧边栏底部截断修复 ========== */
+/* ========== 修复侧边栏被截断，移除侧边栏内部滚动条 ========== */
 .sidebar__inner {
-    overflow-y: auto !important;
-    overflow-x: hidden !important;
-    max-height: calc(100vh - 24px) !important;
-    padding: 1rem 1rem !important;
+    overflow-y: visible !important;
+    max-height: unset !important;
+    height: auto !important;
 }
-/* 隐藏滚动条，支持Chrome、Edge、Firefox */
+.page__sidebar-wrap {
+    overflow-y: visible !important;
+    max-height: unset !important;
+    height: auto !important;
+}
+/* 清除滚动条兜底 */
 .sidebar__inner::-webkit-scrollbar {
     display: none !important;
 }
+.page__sidebar-wrap::-webkit-scrollbar {
+    display: none !important;
+}
 .sidebar__inner {
-    scrollbar-width: none !important; /* Firefox */
-    -ms-overflow-style: none !important; /* IE/旧Edge */
+    scrollbar-width: none !important;
+    -ms-overflow-style: none !important;
+}
+.page__sidebar-wrap {
+    scrollbar-width: none !important;
+    -ms-overflow-style: none !important;
 }
 </style>
