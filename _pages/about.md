@@ -144,6 +144,53 @@ redirect_from:
 </ul>
 </div>
 
+# 🏅 Honors
+---------------
+<div class="news-box">
+  <ul class="news-list" style="margin:0; padding:0; list-style:none;">
+    <li style="margin-bottom:12px;"><em>2026.10</em>&nbsp;<span style="color:#D8BFD8;">Harbin Institute of Technology</span>, Outstanding Student (Top 5%).</li>
+    <li style="margin-bottom:12px;"><em>2026.10</em>&nbsp;<span style="color:#D8BFD8;">Harbin Institute of Technology</span>, Graduate Special Academic Scholarship.</li>
+    <li style="margin-bottom:12px;"><em>2026.10</em>&nbsp;National Scholarship for Graduate Students.</li>
+    <li style="margin-bottom:12px;"><em>2026.09</em>&nbsp;<span style="color:#D8BFD8;">Harbin Institute of Technology, School of Instrument Science and Engineering</span>, Outstanding Backbone Award of the Graduate Student Union.</li>
+    <li style="margin-bottom:12px;"><em>2026.05</em>&nbsp;<span style="color:#D8BFD8;">Harbin Institute of Technology</span>, Outstanding League Member (Top 5%).</li>
+    <li style="margin-bottom:12px;"><em>2025.12</em>&nbsp;<span style="color:#D8BFD8;">Harbin Institute of Technology</span>, Top Ten Calligraphers.</li>
+    <li style="margin-bottom:12px;"><em>2025.06</em>&nbsp;<span style="color:#D8BFD8;">Jilin University</span>, Outstanding Graduation Project of the College (Top 5%).</li>
+    <li style="margin-bottom:12px;"><em>2025.06</em>&nbsp;<span style="color:#D8BFD8;">Jilin University</span>, <span style="color: #9370DB;">University Excellent Student (Top 5%)</span>.</li>
+    <li style="margin-bottom:12px;"><em>2025.06</em>&nbsp;<span style="color:#D8BFD8;">Jilin University</span>, <span style="color: #9370DB;">First Prize Scholarship (Top 5%)</span>.</li>
+    <li style="margin-bottom:12px;"><em>2025.06</em>&nbsp;<span style="color:#D8BFD8;">Jilin University</span>, Academic Scholarship.</li>
+    <li style="margin-bottom:12px;"><em>2025.05</em>&nbsp;<span style="color:#D8BFD8;">Jilin University</span>, Excellent Proceedings of Undergraduate Innovation and Entrepreneurship Training Program.</li>
+    <li style="margin-bottom:12px;"><em>2025.05</em>&nbsp;National Computer Rank Examination (NCRE) Level 3, Embedded System Development Technology.</li>
+    <li style="margin-bottom:12px;"><em>2025.05</em>&nbsp;<span style="color:#D8BFD8;">Jilin University</span>, <span style="color: #9370DB;">Outstanding League Member (Top 5%)</span>.</li>
+    <li style="margin-bottom:12px;"><em>2024.12</em>&nbsp;<span style="color:#D8BFD8;">Jilin University</span>, Academic Competition Scholarship.</li>
+    <li style="margin-bottom:12px;"><em>2024.11</em>&nbsp;National College Students' Activities to Promote the Spirit of Aerospace, Excellent Aerospace Pioneer Volunteer.</li>
+    <li style="margin-bottom:12px;"><em>2024.10</em>&nbsp;<span style="color:#D8BFD8;">Jilin University</span>, College Excellent Student (Top 15%).</li>
+    <li style="margin-bottom:12px;"><em>2024.10</em>&nbsp;<span style="color:#D8BFD8;">Jilin University</span>, Academic Scholarship.</li>
+    <li style="margin-bottom:12px;"><em>2024.10</em>&nbsp;<span style="color:#D8BFD8;">Jilin University</span>, <span style="color: #9370DB;">First Prize Scholarship (Top 5%)</span>.</li>
+    <li style="margin-bottom:12px;"><em>2023.10</em>&nbsp;<span style="color:#D8BFD8;">Jilin University</span>, Second Prize Scholarship (Top 15%).</li>
+    <li><em>2022.02</em>&nbsp;Volunteer Service Activities for Epidemic Prevention and Control in Baicheng City, Outstanding Performance Award.</li>
+  </ul>
+</div>
+
+# 🎏 Competitions
+---------------
+<div class="news-box">
+  <ul class="news-list" style="margin:0; padding:0; list-style:none;">
+    <li style="margin-bottom:12px;"><em>2026.10</em>&nbsp;<span style="color:#D8BFD8;">National College Students' Academic English Vocabulary Competition</span>, Excellence Award.</li>
+    <li style="margin-bottom:12px;"><em>2025.12</em>&nbsp;<span style="color:#D8BFD8;">iCAN College Students' Innovation and Entrepreneurship Competition</span>, <span style="color: #9370DB;">Third Prize</span>.</li>
+    <li style="margin-bottom:12px;"><em>2025.06</em>&nbsp;<span style="color:#D8BFD8;">Jilin University "Landai Cup" 3D Modeling Design Competition</span>, First Prize.</li>
+    <li style="margin-bottom:12px;"><em>2025.02</em>&nbsp;<span style="color:#D8BFD8;">National Student Technology Innovation and Entrepreneurship Competition</span>, First Prize.</li>
+    <li style="margin-bottom:12px;"><em>2024.11</em>&nbsp;<span style="color:#D8BFD8;">National College Student AI Technology Competition</span>, First Prize.</li>
+    <li style="margin-bottom:12px;"><em>2024.10</em>&nbsp;<span style="color:#D8BFD8;">Foreign Language Teaching and Research Press · Guocai Cup National College Students' Foreign Language Ability Competition Comprehensive Ability Competition</span>, Silver Award.</li>
+    <li style="margin-bottom:12px;"><em>2024.08</em>&nbsp;<span style="color:#D8BFD8;">BOE Cup Intelligent Manufacturing Competition</span>, First Prize.</li>
+    <li style="margin-bottom:12px;"><em>2024.06</em>&nbsp;<span style="color:#D8BFD8;">Jilin University Mathematical Modeling Competition</span>, First Prize.</li>
+    <li style="margin-bottom:12px;"><em>2024.06</em>&nbsp;<span style="color:#D8BFD8;">Mathematical Contest In Modeling</span>, <span style="color: #9370DB;">Finalist (Captain, Top 2% Globally)</span>.</li>
+    <li style="margin-bottom:12px;"><em>2023.11</em>&nbsp;<span style="color:#D8BFD8;">Jilin University Student Career Planning Competition</span>, Third Prize.</li>
+    <li><em>2023.11</em>&nbsp;<span style="color:#D8BFD8;">Jilin University Student Career Planning Competition Chaoyang Campus Finals</span>, First Prize.</li>
+  </ul>
+</div>
+
+
+
 
 <!--
 Experience
