@@ -30,29 +30,41 @@ redirect_from:
 ---------------
 <div class="news-box">
   <ul class="news-list">
-    <li>
-      <img src="images/莫斯科国立鲍曼技术大学.png" alt="BMSTU Logo" style="height: 1.3em; vertical-align: middle; margin-right: 6px;">
-      <span class="news-date"><em style="color:#D8BFD8">2026.03 - 2026.04</em></span>
-      Bauman Moscow State Technical University.
-      <span style="font-size: 0.85em; color: #666;">GPA: 95/100</span>
+    <li style="display: flex; align-items: flex-start; gap: 12px; margin-bottom: 14px;">
+      <div style="width: 56px; height: 56px; flex-shrink: 0; display: flex; align-items: center; justify-content: center;">
+        <img src="images/莫斯科国立鲍曼技术大学.png" alt="BMSTU Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      </div>
+      <div style="flex: 1; line-height: 1.7;">
+        <span class="news-date"><em style="color:#D8BFD8">2026.03 - 2026.04</em></span>&nbsp;Bauman Moscow State Technical University.
+        <div style="font-size: 0.85em; color: #666; margin-top: 2px;">GPA: 95/100</div>
+      </div>
     </li>
-    <li>
-      <img src="images/哈尔滨工业大学-logo-2048px.png" alt="HIT Logo" style="height: 1.3em; vertical-align: middle; margin-right: 6px;">
-      <span class="news-date"><em style="color:#D8BFD8">2025.09 - 2027.06</em></span>
-      M.S. Harbin Institute of Technology.
-      <span style="font-size: 0.85em; color: #666;">GPA: 92.5/100</span>
+    <li style="display: flex; align-items: flex-start; gap: 12px; margin-bottom: 14px;">
+      <div style="width: 56px; height: 56px; flex-shrink: 0; display: flex; align-items: center; justify-content: center;">
+        <img src="images/哈尔滨工业大学-logo-2048px.png" alt="HIT Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      </div>
+      <div style="flex: 1; line-height: 1.7;">
+        <span class="news-date"><em style="color:#D8BFD8">2025.09 - 2027.06</em></span>&nbsp;M.S. Harbin Institute of Technology.
+        <div style="font-size: 0.85em; color: #666; margin-top: 2px;">GPA: 92.5/100</div>
+      </div>
     </li>
-    <li>
-      <img src="images/汉阳大学.png" alt="Hanyang Logo" style="height: 1.3em; vertical-align: middle; margin-right: 6px;">
-      <span class="news-date"><em style="color:#D8BFD8">2024.12 - 2025.01</em></span>
-      Hanyang University.
-      <span style="font-size: 0.85em; color: #666;">GPA: 90/100</span>
+    <li style="display: flex; align-items: flex-start; gap: 12px; margin-bottom: 14px;">
+      <div style="width: 56px; height: 56px; flex-shrink: 0; display: flex; align-items: center; justify-content: center;">
+        <img src="images/汉阳大学.png" alt="Hanyang Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      </div>
+      <div style="flex: 1; line-height: 1.7;">
+        <span class="news-date"><em style="color:#D8BFD8">2024.12 - 2025.01</em></span>&nbsp;Hanyang University.
+        <div style="font-size: 0.85em; color: #666; margin-top: 2px;">GPA: 90/100</div>
+      </div>
     </li>
-    <li>
-      <img src="images/吉林大学-logo-2048px.png" alt="JLU Logo" style="height: 1.3em; vertical-align: middle; margin-right: 6px;">
-      <span class="news-date"><em style="color:#D8BFD8">2021.09 - 2025.06</em></span>
-      B.S. Jilin University.
-      <span style="font-size: 0.85em; color: #666;">GPA: 87.9/100</span>
+    <li style="display: flex; align-items: flex-start; gap: 12px;">
+      <div style="width: 56px; height: 56px; flex-shrink: 0; display: flex; align-items: center; justify-content: center;">
+        <img src="images/吉林大学-logo-2048px.png" alt="JLU Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      </div>
+      <div style="flex: 1; line-height: 1.7;">
+        <span class="news-date"><em style="color:#D8BFD8">2021.09 - 2025.06</em></span>&nbsp;B.S. Jilin University.
+        <div style="font-size: 0.85em; color: #666; margin-top: 2px;">GPA: 87.9/100</div>
+      </div>
     </li>
   </ul>
 </div>
@@ -106,12 +118,17 @@ redirect_from:
 ---------------
 <div style="background: #f7f7f7; border-radius: 12px; padding: 16px 20px;">
 <ul class="news-list" style="margin:0; padding:0; list-style:none;">
-<li style="margin-bottom:12px;">A robust two-stage stereo calibration framework with regularized closed-form initialization and linear distortion pre-estimation. <span style="color:#D8BFD8"><i><b>Measurement</b></i></span>, submitted. (JCR Q1, 1st author)</li>
-<li style="margin-bottom:12px;">2D-MRGGS: a parametrized speckle pattern and its metrological framework for online uncertainty prediction and accuracy specification. <span style="color:#D8BFD8"><i><b>Measurement</b></i></span>, submitted. (JCR Q1, 1st author)</li>
-<li style="margin-bottom:12px;">Gated hierarchical reinforcement learning control for autonomous multi-mode switching in mode-locked fiber lasers. <span style="color:#D8BFD8"><i><b>Opt. Laser Technol.</b></i></span>, submitted. (JCR Q1, 2nd author)</li>
-<li style="margin-bottom:12px;">Lane‑traversal path planning on structured roads via geometry‑guided pruning and hierarchical divide‑and‑conquer optimization. <span style="color:#D8BFD8"><i><b>Eng. Res. Express</b></i></span>, 2026, 8: 115211. (JCR Q2, 1st author)</li>
-<li style="margin-bottom:12px;">Dual-domain collaborative vision framework for high-fidelity defect detection: integrating line structured light with adaptive 2D/3D fusion. <span style="color:#D8BFD8"><i><b>J. Mod. Opt.</b></i></span>, submitted. (JCR Q4, 1st author)</li>
-<li>A hybrid framework for dynamic optimization of racing car braking system based on BiLSTM and GBDT. <span style="color:#D8BFD8"><i><b>Proc. 2025 IEEE 3rd Int. Conf. Image Process. Comput. Appl. (ICIPCA)</b></i></span>, 2025, pp. 2156-2160. (EI conference, 1st author)</li>
+<li style="margin-bottom:12px;">[J5] A robust end-to-end camera calibration framework for visual measurement: prior-constrained initialization and outlier suppression. <span style="color:#D8BFD8"><i><b>Measurement</b></i></span>. (Under review; JCR Q1).</li>
+  
+<li style="margin-bottom:12px;">[J4] 2D-MRGGS: a parametrized speckle pattern and its metrological framework for online uncertainty prediction and accuracy specification. <span style="color:#D8BFD8"><i><b>Measurement Science and Technology</b></i></span>. (Major revision; JCR Q2).</li>
+
+<li style="margin-bottom:12px;">[J3] Gated hierarchical reinforcement learning control for autonomous multi-mode switching in mode-locked fiber lasers. <span style="color:#D8BFD8"><i><b>Optics &amp; Laser Technology</b></i></span>. (Required reviews complete, second round; JCR Q1; 2nd author).</li>
+
+<li style="margin-bottom:12px;">[J2] Lane-traversal path planning on structured roads via geometry-guided pruning and hierarchical divide-and-conquer optimization. <span style="color:#D8BFD8"><i><b>Engineering Research Express</b></i></span>, 2026, 8: 115211. (JCR Q2).</li>
+
+<li style="margin-bottom:12px;">[J1] Dual-domain collaborative vision framework for high-fidelity defect detection: integrating line structured light with adaptive 2D/3D fusion. <span style="color:#D8BFD8"><i><b>Journal of Modern Optics</b></i></span>. (Under review; JCR Q4).</li>
+
+<li>[C1] A hybrid framework for dynamic optimization of racing car braking system based on BiLSTM and GBDT. <span style="color:#D8BFD8"><i><b>Proc. 2025 IEEE 3rd Int. Conf. Image Process. Comput. Appl. (ICIPCA)</b></i></span>, 2025, pp. 2156-2160. (EI conference).</li>
 </ul>
 </div>
 
