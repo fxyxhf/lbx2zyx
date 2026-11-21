@@ -191,7 +191,7 @@ redirect_from:
 
 <li style="margin-bottom:12px;">2026.10 Harbin Institute of Technology, Graduate Special Academic Scholarship.</li>
 
-<li style="margin-bottom:12px;">2026.10 National Scholarship for Graduate Students.</li>
+<li style="margin-bottom:12px;">2026.10 National Scholarship for Graduate Students (Top 2%).</li>
 
 <li style="margin-bottom:12px;">2026.09 Harbin Institute of Technology, Outstanding Backbone Award of the Graduate Student Union.</li>
 
@@ -257,7 +257,23 @@ redirect_from:
 </ul>
 </div>
 
+💼 Societies
+---------------
+<div style="background: #f7f7f7; border-radius: 12px; padding: 16px 20px;">
+<ul class="news-list" style="margin:0; padding:0; list-style:none;">
+<li style="margin-bottom:12px;">2026.10 Reviewer for <span style="color:#D8BFD8"><i><b>Recent Advances in Electrical &amp; Electronic Engineering</b></i></span>.</li>
 
+<li style="margin-bottom:12px;">2026.07 Reviewer for <span style="color:#D8BFD8"><i><b>MEIE2026</b></i></span>.</li>
+
+<li style="margin-bottom:12px;">2025.12 to present Vice-chairman of the Science and Innovation Department of the Graduate Student Union of the <span style="color:#D8BFD8">Instrumentation College</span>.</li>
+
+<li style="margin-bottom:12px;">2025.04 to present Life Member of the <span style="color:#D8BFD8">China Satellite Navigation and Positioning Association</span>.</li>
+
+<li style="margin-bottom:12px;">2025.04 to present Student Member of the <span style="color:#D8BFD8">Chinese Society of Mechanics</span>.</li>
+
+<li>2024.04 to 2025.05 Member of the <span style="color:#D8BFD8">Jilin University Jispeed Formula Racing Team</span>.</li>
+</ul>
+</div>
 
 
 <!--
