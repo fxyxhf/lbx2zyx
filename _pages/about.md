@@ -104,17 +104,53 @@ redirect_from:
 
 🔍 Projects
 ---------------
-<div class="news-box">
-  <ul class="news-list">
-<li><span style="font-style: italic;">2025.11-present </span> <span style="color:#D8BFD8">&nbsp;  Development of mixed-flow/axial-flow turbine data post-processing system</span></li>
-<li><span style="font-style: italic;">2025.10-2026.05 </span> <span style="color:#D8BFD8">&nbsp;  High-fidelity 3D reconstruction and surface mesh extraction method based on Gaussian splatting and wheeled robots</span></li>
-<li><span style="font-style: italic;">2025.03-2025.05 </span> <span style="color:#D8BFD8">&nbsp;  Research and development of visible camera dynamic communication technology for autonomous vehicles</span></li>
-<li><span style="font-style: italic;">2024.10-2025.06 </span> <span style="color:#D8BFD8">&nbsp;  Development and online application of large-scale multi-dimensional intelligent flexible inspection system</span></li>
-<li><span style="font-style: italic;">2024.10-2024.12 </span> <span style="color:#D8BFD8">&nbsp;  Research on key technologies for joint multi-satellite large-area coverage imaging</span></li>
-<li><span style="font-style: italic;">2024.04-2024.06 </span> <span style="color:#D8BFD8">&nbsp;  Research on key technology of commercial vehicle decarbonization based on intelligent cylinder stopping regulation mechanism</span></li>
-<li><span style="font-style: italic;">2023.06-2025.04 </span> <span style="color:#D8BFD8">&nbsp;  Development of an experimental demonstration instrument based on Kirchhoff's law of thermal radiation</span></li>
-<li><span style="font-style: italic;">2023.04-2023.06 </span> <span style="color:#D8BFD8">&nbsp;  Statistical inference for non-smooth and high-frequency time series models</span></li>
-  </ul>
+<div style="background: #f7f7f7; border-radius: 12px; padding: 16px 20px;">
+<ul class="news-list" style="margin:0; padding:0; list-style:none;">
+<li style="margin-bottom:12px;">
+  2025.11-present&nbsp;<span style="color:#D8BFD8;">Development of a data post-processing system for hydraulic machinery measurement and control test benches</span>
+  <div style="font-size:0.85em; color:#666; margin-top:2px;">Industry-funded project</div>
+</li>
+
+<li style="margin-bottom:12px;">
+  2025.10-2026.05&nbsp;<span style="color:#D8BFD8;">Integrated reconnaissance-strike aerial bomb</span>
+  <div style="font-size:0.85em; color:#666; margin-top:2px;">Project of an aerospace institute</div>
+</li>
+
+<li style="margin-bottom:12px;">
+  2025.10-2026.05&nbsp;<span style="color:#D8BFD8;">Development of the suspension platform subsystem for the Mars rover combined-surface mobility performance test system</span>
+  <div style="font-size:0.85em; color:#666; margin-top:2px;">Project of the China Academy of Space Technology</div>
+</li>
+
+<li style="margin-bottom:12px;">
+  2025.03-2025.05&nbsp;<span style="color:#D8BFD8;">Research and development of visible-light camera dynamic communication technology for autonomous vehicles</span>
+  <div style="font-size:0.85em; color:#666; margin-top:2px;">Key R&amp;D Project of the Jilin Provincial Science and Technology Development Plan</div>
+</li>
+
+<li style="margin-bottom:12px;">
+  2024.10-2025.06&nbsp;<span style="color:#D8BFD8;">Development and online application of a large-scale multi-dimensional intelligent flexible inspection system</span>
+  <div style="font-size:0.85em; color:#666; margin-top:2px;">Major Science and Technology Project of Jilin Province</div>
+</li>
+
+<li style="margin-bottom:12px;">
+  2024.10-2024.12&nbsp;<span style="color:#D8BFD8;">Research on key technologies for joint multi-satellite large-area coverage imaging</span>
+  <div style="font-size:0.85em; color:#666; margin-top:2px;">Key R&amp;D Project of the Jilin Provincial Science and Technology Development Plan</div>
+</li>
+
+<li style="margin-bottom:12px;">
+  2024.04-2024.06&nbsp;<span style="color:#D8BFD8;">Research on key technologies for commercial vehicle decarbonization based on an intelligent cylinder deactivation regulation mechanism</span>
+  <div style="font-size:0.85em; color:#666; margin-top:2px;">Scientific Research Project of the Jilin Provincial Department of Education (Key Project)</div>
+</li>
+
+<li style="margin-bottom:12px;">
+  2023.06-2025.04&nbsp;<span style="color:#D8BFD8;">Development of an experimental instrument based on Kirchhoff's law of thermal radiation</span>
+  <div style="font-size:0.85em; color:#666; margin-top:2px;">Innovation Training Project of the Jilin Province College Students' Innovation and Entrepreneurship Training Program</div>
+</li>
+
+<li>
+  2023.04-2023.06&nbsp;<span style="color:#D8BFD8;">Statistical inference for non-stationary and high-frequency time series models</span>
+  <div style="font-size:0.85em; color:#666; margin-top:2px;">Key Project of the National Natural Science Foundation of China</div>
+</li>
+</ul>
 </div>
 
 📝 Publications
