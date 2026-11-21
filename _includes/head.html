@@ -30,39 +30,66 @@
     margin: 0 !important;
 }
 
-/* 针对archive布局(Blog分页页)取消 sticky！这就是元凶 */
-.layout-archive .page__sidebar {
+/* ===== Blog（archive 布局）侧边栏去掉滚动条 ===== */
+/* 关键：Minimal Mistakes 的 body class 是 layout--archive（双连字符） */
+.layout--archive .page__sidebar,
+.layout--archive .page__sidebar-wrap,
+.layout--archive .sidebar,
+.layout--archive .sidebar__inner,
+.layout--archive #main,
+.layout--archive .page__inner-wrap,
+.layout--archive .archive {
     position: static !important;
-}
-
-.sidebar__inner {
-    overflow-y: visible !important;
-    max-height: unset !important;
-    height: auto !important;
-}
-.page__sidebar-wrap {
-    overflow-y: visible !important;
-    max-height: unset !important;
-    height: auto !important;
-}
-
-.layout-archive .page__sidebar-wrap {
-    height: auto !important;
-    max-height: unset !important;
     overflow: visible !important;
-}
-.layout-archive #main {
-  align-items: flex-start !important;
+    overflow-y: visible !important;
+    max-height: none !important;
+    height: auto !important;
 }
 
-/* 隐藏滚动条 */
+/* 兼容单连字符写法，双保险 */
+.layout-archive .page__sidebar,
+.layout-archive .page__sidebar-wrap,
+.layout-archive .sidebar,
+.layout-archive .sidebar__inner,
+.layout-archive #main,
+.layout-archive .page__inner-wrap,
+.layout-archive .archive {
+    position: static !important;
+    overflow: visible !important;
+    overflow-y: visible !important;
+    max-height: none !important;
+    height: auto !important;
+}
+
+.layout--archive #main,
+.layout-archive #main {
+    align-items: flex-start !important;
+}
+
+/* 全局：侧边栏内部不滚动、自然撑开 */
+.sidebar__inner,
+.page__sidebar-wrap,
+.page__sidebar {
+    overflow: visible !important;
+    overflow-y: visible !important;
+    max-height: none !important;
+    height: auto !important;
+}
+
+/* 隐藏滚动条（webkit + firefox + ie） */
 .sidebar__inner::-webkit-scrollbar,
-.page__sidebar-wrap::-webkit-scrollbar{
+.page__sidebar-wrap::-webkit-scrollbar,
+.page__sidebar::-webkit-scrollbar,
+#main::-webkit-scrollbar,
+.page__inner-wrap::-webkit-scrollbar {
     display: none !important;
 }
-.sidebar__inner,.page__sidebar-wrap{
+.sidebar__inner,
+.page__sidebar-wrap,
+.page__sidebar,
+#main,
+.page__inner-wrap {
     scrollbar-width: none !important;
     -ms-overflow-style: none !important;
 }
 </style>
-
