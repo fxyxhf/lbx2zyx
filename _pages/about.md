@@ -26,47 +26,50 @@ redirect_from:
   </div>
 </div>
 
-# 📖 Educations
+📖 Educations
 ---------------
-<div class="news-box">
-  <ul class="news-list">
-    <li style="display: flex; align-items: flex-start; gap: 12px; margin-bottom: 14px;">
-      <div style="width: 56px; height: 56px; flex-shrink: 0; display: flex; align-items: center; justify-content: center;">
-        <img src="images/莫斯科国立鲍曼技术大学.png" alt="BMSTU Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-      </div>
-      <div style="flex: 1; line-height: 1.7; font-size: inherit;">
-        <span class="news-date"><em>2026.03 - 2026.04</em></span>&nbsp;<span style="color:#D8BFD8;">Bauman Moscow State Technical University.</span>
-        <div style="font-size: 0.85em; color: #666; margin-top: 2px;">GPA: 95/100</div>
-      </div>
-    </li>
-    <li style="display: flex; align-items: flex-start; gap: 12px; margin-bottom: 14px;">
-      <div style="width: 56px; height: 56px; flex-shrink: 0; display: flex; align-items: center; justify-content: center;">
-        <img src="images/哈尔滨工业大学-logo-2048px.png" alt="HIT Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-      </div>
-      <div style="flex: 1; line-height: 1.7; font-size: inherit;">
-        <span class="news-date"><em>2025.09 - 2027.06</em></span>&nbsp;<span style="color:#D8BFD8;">M.S. Harbin Institute of Technology.</span>
-        <div style="font-size: 0.85em; color: #666; margin-top: 2px;">GPA: 92.5/100</div>
-      </div>
-    </li>
-    <li style="display: flex; align-items: flex-start; gap: 12px; margin-bottom: 14px;">
-      <div style="width: 56px; height: 56px; flex-shrink: 0; display: flex; align-items: center; justify-content: center;">
-        <img src="images/汉阳大学.png" alt="Hanyang Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-      </div>
-      <div style="flex: 1; line-height: 1.7; font-size: inherit;">
-        <span class="news-date"><em>2024.12 - 2025.01</em></span>&nbsp;<span style="color:#D8BFD8;">Hanyang University.</span>
-        <div style="font-size: 0.85em; color: #666; margin-top: 2px;">GPA: 90/100</div>
-      </div>
-    </li>
-    <li style="display: flex; align-items: flex-start; gap: 12px;">
-      <div style="width: 56px; height: 56px; flex-shrink: 0; display: flex; align-items: center; justify-content: center;">
-        <img src="images/吉林大学-logo-2048px.png" alt="JLU Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-      </div>
-      <div style="flex: 1; line-height: 1.7; font-size: inherit;">
-        <span class="news-date"><em>2021.09 - 2025.06</em></span>&nbsp;<span style="color:#D8BFD8;">B.S. Jilin University.</span>
-        <div style="font-size: 0.85em; color: #666; margin-top: 2px;">GPA: 87.9/100</div>
-      </div>
-    </li>
-  </ul>
+<div style="background: #f7f7f7; border-radius: 12px; padding: 16px 20px;">
+<ul class="news-list" style="margin:0; padding:0; list-style:none;">
+<li style="display: flex; align-items: flex-start; gap: 12px; margin-bottom: 14px;">
+  <div style="width: 56px; height: 56px; flex-shrink: 0; display: flex; align-items: center; justify-content: center;">
+    <img src="images/莫斯科国立鲍曼技术大学.png" alt="BMSTU Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+  </div>
+  <div style="flex: 1; line-height: 1.7; font-size: inherit;">
+    2026.03 - 2026.04&nbsp;<span style="color:#D8BFD8;">Bauman Moscow State Technical University.</span>
+    <div style="font-size: 0.85em; color: #666; margin-top: 2px;">GPA: 95/100</div>
+  </div>
+</li>
+
+<li style="display: flex; align-items: flex-start; gap: 12px; margin-bottom: 14px;">
+  <div style="width: 56px; height: 56px; flex-shrink: 0; display: flex; align-items: center; justify-content: center;">
+    <img src="images/哈尔滨工业大学-logo-2048px.png" alt="HIT Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+  </div>
+  <div style="flex: 1; line-height: 1.7; font-size: inherit;">
+    2025.09 - 2027.06&nbsp;<span style="color:#D8BFD8;">M.S. Harbin Institute of Technology.</span>
+    <div style="font-size: 0.85em; color: #666; margin-top: 2px;">GPA: 92.5/100</div>
+  </div>
+</li>
+
+<li style="display: flex; align-items: flex-start; gap: 12px; margin-bottom: 14px;">
+  <div style="width: 56px; height: 56px; flex-shrink: 0; display: flex; align-items: center; justify-content: center;">
+    <img src="images/汉阳大学.png" alt="Hanyang Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+  </div>
+  <div style="flex: 1; line-height: 1.7; font-size: inherit;">
+    2024.12 - 2025.01&nbsp;<span style="color:#D8BFD8;">Hanyang University.</span>
+    <div style="font-size: 0.85em; color: #666; margin-top: 2px;">GPA: 90/100</div>
+  </div>
+</li>
+
+<li style="display: flex; align-items: flex-start; gap: 12px;">
+  <div style="width: 56px; height: 56px; flex-shrink: 0; display: flex; align-items: center; justify-content: center;">
+    <img src="images/吉林大学-logo-2048px.png" alt="JLU Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+  </div>
+  <div style="flex: 1; line-height: 1.7; font-size: inherit;">
+    2021.09 - 2025.06&nbsp;<span style="color:#D8BFD8;">B.S. Jilin University.</span>
+    <div style="font-size: 0.85em; color: #666; margin-top: 2px;">GPA: 87.9/100</div>
+  </div>
+</li>
+</ul>
 </div>
 
 🛠️ Tech Stack
@@ -144,49 +147,78 @@ redirect_from:
 </ul>
 </div>
 
-# 🏅 Honors
+🏅 Honors
 ---------------
-<div class="news-box">
-  <ul class="news-list" style="margin:0; padding:0; list-style:none;">
-    <li style="margin-bottom:12px;"><em>2026.10</em>&nbsp;<span style="color:#D8BFD8;">Harbin Institute of Technology</span>, Outstanding Student (Top 5%).</li>
-    <li style="margin-bottom:12px;"><em>2026.10</em>&nbsp;<span style="color:#D8BFD8;">Harbin Institute of Technology</span>, Graduate Special Academic Scholarship.</li>
-    <li style="margin-bottom:12px;"><em>2026.10</em>&nbsp;National Scholarship for Graduate Students.</li>
-    <li style="margin-bottom:12px;"><em>2026.09</em>&nbsp;<span style="color:#D8BFD8;">Harbin Institute of Technology, School of Instrument Science and Engineering</span>, Outstanding Backbone Award of the Graduate Student Union.</li>
-    <li style="margin-bottom:12px;"><em>2026.05</em>&nbsp;<span style="color:#D8BFD8;">Harbin Institute of Technology</span>, Outstanding League Member (Top 5%).</li>
-    <li style="margin-bottom:12px;"><em>2025.12</em>&nbsp;<span style="color:#D8BFD8;">Harbin Institute of Technology</span>, Top Ten Calligraphers.</li>
-    <li style="margin-bottom:12px;"><em>2025.06</em>&nbsp;<span style="color:#D8BFD8;">Jilin University</span>, Outstanding Graduation Project of the College (Top 5%).</li>
-    <li style="margin-bottom:12px;"><em>2025.06</em>&nbsp;<span style="color:#D8BFD8;">Jilin University</span>, <span style="color: #9370DB;">University Excellent Student (Top 5%)</span>.</li>
-    <li style="margin-bottom:12px;"><em>2025.06</em>&nbsp;<span style="color:#D8BFD8;">Jilin University</span>, <span style="color: #9370DB;">First Prize Scholarship (Top 5%)</span>.</li>
-    <li style="margin-bottom:12px;"><em>2025.06</em>&nbsp;<span style="color:#D8BFD8;">Jilin University</span>, Academic Scholarship.</li>
-    <li style="margin-bottom:12px;"><em>2025.05</em>&nbsp;<span style="color:#D8BFD8;">Jilin University</span>, Excellent Proceedings of Undergraduate Innovation and Entrepreneurship Training Program.</li>
-    <li style="margin-bottom:12px;"><em>2025.05</em>&nbsp;National Computer Rank Examination (NCRE) Level 3, Embedded System Development Technology.</li>
-    <li style="margin-bottom:12px;"><em>2025.05</em>&nbsp;<span style="color:#D8BFD8;">Jilin University</span>, <span style="color: #9370DB;">Outstanding League Member (Top 5%)</span>.</li>
-    <li style="margin-bottom:12px;"><em>2024.12</em>&nbsp;<span style="color:#D8BFD8;">Jilin University</span>, Academic Competition Scholarship.</li>
-    <li style="margin-bottom:12px;"><em>2024.11</em>&nbsp;National College Students' Activities to Promote the Spirit of Aerospace, Excellent Aerospace Pioneer Volunteer.</li>
-    <li style="margin-bottom:12px;"><em>2024.10</em>&nbsp;<span style="color:#D8BFD8;">Jilin University</span>, College Excellent Student (Top 15%).</li>
-    <li style="margin-bottom:12px;"><em>2024.10</em>&nbsp;<span style="color:#D8BFD8;">Jilin University</span>, Academic Scholarship.</li>
-    <li style="margin-bottom:12px;"><em>2024.10</em>&nbsp;<span style="color:#D8BFD8;">Jilin University</span>, <span style="color: #9370DB;">First Prize Scholarship (Top 5%)</span>.</li>
-    <li style="margin-bottom:12px;"><em>2023.10</em>&nbsp;<span style="color:#D8BFD8;">Jilin University</span>, Second Prize Scholarship (Top 15%).</li>
-    <li><em>2022.02</em>&nbsp;Volunteer Service Activities for Epidemic Prevention and Control in Baicheng City, Outstanding Performance Award.</li>
-  </ul>
+<div style="background: #f7f7f7; border-radius: 12px; padding: 16px 20px;">
+<ul class="news-list" style="margin:0; padding:0; list-style:none;">
+<li style="margin-bottom:12px;">2026.10 <span style="color:#D8BFD8">Harbin Institute of Technology</span>, Outstanding Student (Top 5%).</li>
+
+<li style="margin-bottom:12px;">2026.10 <span style="color:#D8BFD8">Harbin Institute of Technology</span>, Graduate Special Academic Scholarship.</li>
+
+<li style="margin-bottom:12px;">2026.10 National Scholarship for Graduate Students.</li>
+
+<li style="margin-bottom:12px;">2026.09 <span style="color:#D8BFD8">Harbin Institute of Technology, School of Instrument Science and Engineering</span>, Outstanding Backbone Award of the Graduate Student Union.</li>
+
+<li style="margin-bottom:12px;">2026.05 <span style="color:#D8BFD8">Harbin Institute of Technology</span>, Outstanding League Member (Top 5%).</li>
+
+<li style="margin-bottom:12px;">2025.12 <span style="color:#D8BFD8">Harbin Institute of Technology</span>, Top Ten Calligraphers.</li>
+
+<li style="margin-bottom:12px;">2025.06 <span style="color:#D8BFD8">Jilin University</span>, Outstanding Graduation Project of the College (Top 5%).</li>
+
+<li style="margin-bottom:12px;">2025.06 <span style="color:#D8BFD8">Jilin University</span>, <span style="color: #9370DB;">University Excellent Student (Top 5%)</span>.</li>
+
+<li style="margin-bottom:12px;">2025.06 <span style="color:#D8BFD8">Jilin University</span>, <span style="color: #9370DB;">First Prize Scholarship (Top 5%)</span>.</li>
+
+<li style="margin-bottom:12px;">2025.06 <span style="color:#D8BFD8">Jilin University</span>, Academic Scholarship.</li>
+
+<li style="margin-bottom:12px;">2025.05 <span style="color:#D8BFD8">Jilin University</span>, Excellent Proceedings of Undergraduate Innovation and Entrepreneurship Training Program.</li>
+
+<li style="margin-bottom:12px;">2025.05 National Computer Rank Examination (NCRE) Level 3, Embedded System Development Technology.</li>
+
+<li style="margin-bottom:12px;">2025.05 <span style="color:#D8BFD8">Jilin University</span>, <span style="color: #9370DB;">Outstanding League Member (Top 5%)</span>.</li>
+
+<li style="margin-bottom:12px;">2024.12 <span style="color:#D8BFD8">Jilin University</span>, Academic Competition Scholarship.</li>
+
+<li style="margin-bottom:12px;">2024.11 National College Students' Activities to Promote the Spirit of Aerospace, Excellent Aerospace Pioneer Volunteer.</li>
+
+<li style="margin-bottom:12px;">2024.10 <span style="color:#D8BFD8">Jilin University</span>, College Excellent Student (Top 15%).</li>
+
+<li style="margin-bottom:12px;">2024.10 <span style="color:#D8BFD8">Jilin University</span>, Academic Scholarship.</li>
+
+<li style="margin-bottom:12px;">2024.10 <span style="color:#D8BFD8">Jilin University</span>, <span style="color: #9370DB;">First Prize Scholarship (Top 5%)</span>.</li>
+
+<li style="margin-bottom:12px;">2023.10 <span style="color:#D8BFD8">Jilin University</span>, Second Prize Scholarship (Top 15%).</li>
+
+<li>2022.02 Volunteer Service Activities for Epidemic Prevention and Control in Baicheng City, Outstanding Performance Award.</li>
+</ul>
 </div>
 
-# 🎏 Competitions
+🎏 Competitions
 ---------------
-<div class="news-box">
-  <ul class="news-list" style="margin:0; padding:0; list-style:none;">
-    <li style="margin-bottom:12px;"><em>2026.10</em>&nbsp;<span style="color:#D8BFD8;">National College Students' Academic English Vocabulary Competition</span>, Excellence Award.</li>
-    <li style="margin-bottom:12px;"><em>2025.12</em>&nbsp;<span style="color:#D8BFD8;">iCAN College Students' Innovation and Entrepreneurship Competition</span>, <span style="color: #9370DB;">Third Prize</span>.</li>
-    <li style="margin-bottom:12px;"><em>2025.06</em>&nbsp;<span style="color:#D8BFD8;">Jilin University "Landai Cup" 3D Modeling Design Competition</span>, First Prize.</li>
-    <li style="margin-bottom:12px;"><em>2025.02</em>&nbsp;<span style="color:#D8BFD8;">National Student Technology Innovation and Entrepreneurship Competition</span>, First Prize.</li>
-    <li style="margin-bottom:12px;"><em>2024.11</em>&nbsp;<span style="color:#D8BFD8;">National College Student AI Technology Competition</span>, First Prize.</li>
-    <li style="margin-bottom:12px;"><em>2024.10</em>&nbsp;<span style="color:#D8BFD8;">Foreign Language Teaching and Research Press · Guocai Cup National College Students' Foreign Language Ability Competition Comprehensive Ability Competition</span>, Silver Award.</li>
-    <li style="margin-bottom:12px;"><em>2024.08</em>&nbsp;<span style="color:#D8BFD8;">BOE Cup Intelligent Manufacturing Competition</span>, First Prize.</li>
-    <li style="margin-bottom:12px;"><em>2024.06</em>&nbsp;<span style="color:#D8BFD8;">Jilin University Mathematical Modeling Competition</span>, First Prize.</li>
-    <li style="margin-bottom:12px;"><em>2024.06</em>&nbsp;<span style="color:#D8BFD8;">Mathematical Contest In Modeling</span>, <span style="color: #9370DB;">Finalist (Captain, Top 2% Globally)</span>.</li>
-    <li style="margin-bottom:12px;"><em>2023.11</em>&nbsp;<span style="color:#D8BFD8;">Jilin University Student Career Planning Competition</span>, Third Prize.</li>
-    <li><em>2023.11</em>&nbsp;<span style="color:#D8BFD8;">Jilin University Student Career Planning Competition Chaoyang Campus Finals</span>, First Prize.</li>
-  </ul>
+<div style="background: #f7f7f7; border-radius: 12px; padding: 16px 20px;">
+<ul class="news-list" style="margin:0; padding:0; list-style:none;">
+<li style="margin-bottom:12px;">2026.10 <span style="color:#D8BFD8">National College Students' Academic English Vocabulary Competition</span>, Excellence Award.</li>
+
+<li style="margin-bottom:12px;">2025.12 <span style="color:#D8BFD8">iCAN College Students' Innovation and Entrepreneurship Competition</span>, <span style="color: #9370DB;">Third Prize</span>.</li>
+
+<li style="margin-bottom:12px;">2025.06 <span style="color:#D8BFD8">Jilin University "Landai Cup" 3D Modeling Design Competition</span>, First Prize.</li>
+
+<li style="margin-bottom:12px;">2025.02 <span style="color:#D8BFD8">National Student Technology Innovation and Entrepreneurship Competition</span>, First Prize.</li>
+
+<li style="margin-bottom:12px;">2024.11 <span style="color:#D8BFD8">National College Student AI Technology Competition</span>, First Prize.</li>
+
+<li style="margin-bottom:12px;">2024.10 <span style="color:#D8BFD8">Foreign Language Teaching and Research Press · Guocai Cup National College Students' Foreign Language Ability Competition Comprehensive Ability Competition</span>, Silver Award.</li>
+
+<li style="margin-bottom:12px;">2024.08 <span style="color:#D8BFD8">BOE Cup Intelligent Manufacturing Competition</span>, First Prize.</li>
+
+<li style="margin-bottom:12px;">2024.06 <span style="color:#D8BFD8">Jilin University Mathematical Modeling Competition</span>, First Prize.</li>
+
+<li style="margin-bottom:12px;">2024.06 <span style="color:#D8BFD8">Mathematical Contest In Modeling</span>, <span style="color: #9370DB;">Finalist (Captain, Top 2% Globally)</span>.</li>
+
+<li style="margin-bottom:12px;">2023.11 <span style="color:#D8BFD8">Jilin University Student Career Planning Competition</span>, Third Prize.</li>
+
+<li>2023.11 <span style="color:#D8BFD8">Jilin University Student Career Planning Competition Chaoyang Campus Finals</span>, First Prize.</li>
+</ul>
 </div>
 
 
