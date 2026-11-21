@@ -8,20 +8,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<h1 class="main-heading" style="color: #D8BFD8; font-family: 'Georgia', 'Times New Roman', serif; font-style: italic; font-weight: 500; letter-spacing: 1.2px; text-shadow: 0 0 18px rgba(201, 177, 255, 0.35);">
-   <img src="images/Hi.gif" width="40px"> Welcome to my Homepage!
+<link href="https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap" rel="stylesheet">
+<h1 class="main-heading" style="color: #D8BFD8; font-family: 'Ma Shan Zheng', 'STXingkai', '华文行楷', 'KaiTi', '楷体', 'STKaiti', serif; font-weight: 400; letter-spacing: 1.2px; text-shadow: 0 0 18px rgba(201, 177, 255, 0.35);">
+   <img src="images/Hi.gif" width="40px"> 欢迎来到我的主页！
 </h1>
 
 <div style="padding-bottom: 15px; margin-bottom: 15px;">
   <div style="text-align: justify; line-height: 1.6; font-size: 1em;">
     我是哈尔滨工业大学的一名硕士研究生。我的研究方向包括 
     <a href="https://scholar.google.com/scholar?q=computer+vision" style="color: #D8BFD8; text-decoration: none;">计算机视觉</a>, 
-    <a href="https://scholar.google.com/scholar?q=autonomous+driving" style="color: #D8BFD8; text-decoration: none;">自动驾驶</a>和
+    <a href="https://scholar.google.com/scholar?q=autonomous+driving" style="color: #D8BFD8; text-decoration: none;">自动驾驶</a> 和
     <a href="https://scholar.google.com/scholar?q=robotics" style="color: #D8BFD8; text-decoration: none;">机器人</a>.
     同时，我也是
     <a href="https://hsr.hoyoverse.com/" style="color: #D8BFD8; text-decoration: none;">崩坏：星穹铁道</a>, 
     <a href="https://zzz.mihoyo.com/" style="color: #D8BFD8; text-decoration: none;">绝区零</a>, 
-    <a href="https://azurlane.yo-star.com/" style="color: #D8BFD8; text-decoration: none;">碧蓝航线</a>和
+    <a href="https://azurlane.yo-star.com/" style="color: #D8BFD8; text-decoration: none;">碧蓝航线</a> 和
     <a href="https://genshin.hoyoverse.com/" style="color: #D8BFD8; text-decoration: none;">原神</a>的忠实粉丝.
     我对人工智能领域的前沿技术和国际学术交流充满热情，欢迎志同道合的研究人员随时与我联系！
   </div>
