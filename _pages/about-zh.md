@@ -263,9 +263,9 @@ redirect_from:
 ---------------
 <div style="background: #f7f7f7; border-radius: 12px; padding: 16px 20px;">
 <ul class="news-list" style="margin:0; padding:0; list-style:none;">
-<li style="margin-bottom:12px;">2026.10 <i><b>Recent Advances in Electrical &amp; Electronic Engineering</b></i> 审稿人.</li>
+<li style="margin-bottom:12px;">2026.10 <i>Recent Advances in Electrical &amp; Electronic Engineering</i> 审稿人.</li>
 
-<li style="margin-bottom:12px;">2026.07 <i><b>MEIE2026</b></i> 审稿人.</li>
+<li style="margin-bottom:12px;">2026.07 <i>MEIE2026</i> 审稿人.</li>
 
 <li style="margin-bottom:12px;">2025.12-2026.10 仪器学院研究生会科创部部长.</li>
 
