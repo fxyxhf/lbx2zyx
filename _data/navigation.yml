@@ -5,6 +5,9 @@ main:
     url: "/"
   - title: "Blog"
     url: "/posts/"
+  - title: "中文"
+    url: "/index-zh.html"
+    lang: zh
     
  # - title: "Publications"
  #   url: "/#publications"
