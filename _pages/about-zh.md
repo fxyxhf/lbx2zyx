@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /index-zh.html
 author_profile: true
 stylesheets:
   - /assets/css/home.css
