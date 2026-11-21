@@ -16,12 +16,12 @@ redirect_from:
   <div style="text-align: justify; line-height: 1.6; font-size: 1em;">
     我是哈尔滨工业大学的一名硕士研究生。我的研究方向包括 
     <a href="https://scholar.google.com/scholar?q=computer+vision" style="color: #D8BFD8; text-decoration: none;">计算机视觉</a>, 
-    <a href="https://scholar.google.com/scholar?q=autonomous+driving" style="color: #D8BFD8; text-decoration: none;">自动驾驶</a> and 
+    <a href="https://scholar.google.com/scholar?q=autonomous+driving" style="color: #D8BFD8; text-decoration: none;">自动驾驶</a>和
     <a href="https://scholar.google.com/scholar?q=robotics" style="color: #D8BFD8; text-decoration: none;">机器人</a>.
-    同时，我也是 
+    同时，我也是
     <a href="https://hsr.hoyoverse.com/" style="color: #D8BFD8; text-decoration: none;">崩坏：星穹铁道</a>, 
     <a href="https://zzz.mihoyo.com/" style="color: #D8BFD8; text-decoration: none;">绝区零</a>, 
-    <a href="https://azurlane.yo-star.com/" style="color: #D8BFD8; text-decoration: none;">碧蓝航线</a> and 
+    <a href="https://azurlane.yo-star.com/" style="color: #D8BFD8; text-decoration: none;">碧蓝航线</a>和
     <a href="https://genshin.hoyoverse.com/" style="color: #D8BFD8; text-decoration: none;">原神</a>的忠实粉丝.
     我对人工智能领域的前沿技术和国际学术交流充满热情，欢迎志同道合的研究人员随时与我联系！
   </div>
@@ -46,7 +46,7 @@ redirect_from:
     <img src="images/哈尔滨工业大学-logo-2048px.png" alt="HIT Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1; line-height: 1.7; font-size: inherit;">
-    2025.09 - 2027.06&nbsp;<span style="color:#D8BFD8;">M.S. 哈尔滨工业大学.</span>
+    2025.09 - 2027.06&nbsp;<span style="color:#D8BFD8;">哈尔滨工业大学 硕士.</span>
     <div style="font-size: 0.85em; color: #666; margin-top: 2px;">GPA: 92.5/100</div>
   </div>
 </li>
@@ -66,7 +66,7 @@ redirect_from:
     <img src="images/吉林大学-logo-2048px.png" alt="JLU Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1; line-height: 1.7; font-size: inherit;">
-    2021.09 - 2025.06&nbsp;<span style="color:#D8BFD8;">B.S. 吉林大学.</span>
+    2021.09 - 2025.06&nbsp;<span style="color:#D8BFD8;">吉林大学 本科.</span>
     <div style="font-size: 0.85em; color: #666; margin-top: 2px;">GPA: 87.9/100</div>
   </div>
 </li>
@@ -262,9 +262,9 @@ redirect_from:
 ---------------
 <div style="background: #f7f7f7; border-radius: 12px; padding: 16px 20px;">
 <ul class="news-list" style="margin:0; padding:0; list-style:none;">
-<li style="margin-bottom:12px;">2026.10 <span style="color:#D8BFD8"><i><b>Recent Advances in Electrical &amp; Electronic Engineering</b></i></span>审稿人.</li>
+<li style="margin-bottom:12px;">2026.10 <i><b>Recent Advances in Electrical &amp; Electronic Engineering</b></i> 审稿人.</li>
 
-<li style="margin-bottom:12px;">2026.07 <span style="color:#D8BFD8"><i><b>MEIE2026</b></i></span>审稿人.</li>
+<li style="margin-bottom:12px;">2026.07 <i><b>MEIE2026</b></i> 审稿人.</li>
 
 <li style="margin-bottom:12px;">2025.12-2026.10 仪器学院研究生会科创部部长.</li>
 
