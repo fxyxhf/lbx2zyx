@@ -43,22 +43,14 @@
       </li>
     {% endfor %}
 
+    {% if page.url == "/" or page.url == "/index-zh.html" %}
     <li>
-      <a id="lang-switch-link" href="{{ base_path }}/index-zh.html">
-        <span class="nav__sub-title">中文</span>
-      </a>
+      {% if page.lang == "zh" %}
+        <a href="{{ base_path }}/index.html"><span class="nav__sub-title">EN</span></a>
+      {% else %}
+        <a href="{{ base_path }}/index-zh.html"><span class="nav__sub-title">中文</span></a>
+      {% endif %}
     </li>
+    {% endif %}
   </ul>
 </nav>
-
-<script>
-(function () {
-  var a = document.getElementById('lang-switch-link');
-  if (!a) return;
-  if (/index-zh(\.html)?$/.test(location.pathname)) {
-    a.setAttribute('href', '{{ base_path }}/index.html');
-    var span = a.querySelector('.nav__sub-title');
-    if (span) { span.textContent = 'EN'; } else { a.textContent = 'EN'; }
-  }
-})();
-</script>
