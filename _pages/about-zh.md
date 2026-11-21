@@ -1,6 +1,7 @@
 ---
 permalink: /index-zh.html
 author_profile: true
+lang: zh
 stylesheets:
   - /assets/css/home.css
 redirect_from: 
