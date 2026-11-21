@@ -5,7 +5,7 @@ main:
     url: "/"
   - title: "Blog"
     url: "/posts/"
-  - title: "中文"
+  - title: "中文/EN"
     url: "/index-zh.html"
     lang: zh
     
